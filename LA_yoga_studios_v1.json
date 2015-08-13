@@ -1,0 +1,4418 @@
+[
+    {
+        "lat": 34.10885, 
+        "lon": -118.2234229, 
+        "name": "Yoga Relax L.A.", 
+        "address": "Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 33.963097, 
+        "lon": -118.406512, 
+        "name": "Sara Hernandez Yoga", 
+        "address": "6700 W 83rd St, Los Angeles, CA 90045"
+    }, 
+    {
+        "lat": 34.047927, 
+        "lon": -118.376495, 
+        "name": "Two Snake Studios", 
+        "address": "1637 S La Cienega Blvd, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.0246769, 
+        "lon": -118.4110162, 
+        "name": "Red Diamond Yoga", 
+        "address": "3500 Overland Ave, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.0677327, 
+        "lon": -118.3436658, 
+        "name": "Modo Yoga LA", 
+        "address": "340 S La Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0478109, 
+        "lon": -118.2469822, 
+        "name": "Yoga Circle Downtown", 
+        "address": "400 S Main St, Los Angeles, CA 90013"
+    }, 
+    {
+        "lat": 34.0728284, 
+        "lon": -118.3437135, 
+        "name": "Liberation Yoga", 
+        "address": "124 S La Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0446072, 
+        "lon": -118.2527419, 
+        "name": "Evoke Yoga", 
+        "address": "212 W 7th st, Los Angeles, CA 90014"
+    }, 
+    {
+        "lat": 34.1041359, 
+        "lon": -118.3094844, 
+        "name": "Siesta Yoga", 
+        "address": "1825 N Western Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0954689, 
+        "lon": -118.2829222, 
+        "name": "One Down Dog", 
+        "address": "4343 W Sunset Blvd, Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 34.02794340000001, 
+        "lon": -118.3921355, 
+        "name": "Yoga Daya", 
+        "address": "8985 Venice Blvd, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.1023111, 
+        "lon": -118.2876162, 
+        "name": "Yoga Vibe", 
+        "address": "1717 Hillhurst Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0415319, 
+        "lon": -118.2554383, 
+        "name": "Peace Yoga Gallery", 
+        "address": "903 S Main St, Los Angeles, CA 90015"
+    }, 
+    {
+        "lat": 34.0819763, 
+        "lon": -118.2715629, 
+        "name": "Urth Yoga", 
+        "address": "2809 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0364357, 
+        "lon": -118.4503647, 
+        "name": "Yogaraj", 
+        "address": "2001 S Barrington Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0755874, 
+        "lon": -118.3232999, 
+        "name": "YogaWorks", 
+        "address": "230 1/2 N Larchmont Blvd, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.108945, 
+        "lon": -118.193317, 
+        "name": "Kinship", 
+        "address": "5612 N Figueroa St, Los Angeles, CA 90042"
+    }, 
+    {
+        "lat": 34.0401018, 
+        "lon": -118.3395025, 
+        "name": "Dharma Yoga L.A.", 
+        "address": "4569 W Washington Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.1207407, 
+        "lon": -118.2041326, 
+        "name": "Namaste Highland Park", 
+        "address": "5118 York Blvd, Los Angeles, CA 90042"
+    }, 
+    {
+        "lat": 34.0950571, 
+        "lon": -118.3133911, 
+        "name": "Hollywood Power Yoga", 
+        "address": "1310 N Wilton Pl, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0851186, 
+        "lon": -118.2531331, 
+        "name": "Yogala Echo Park", 
+        "address": "1840 Echo Park Ave, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0992117, 
+        "lon": -118.3270681, 
+        "name": "YogaWorks Hollywood", 
+        "address": "1555 Vine St, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.1098042, 
+        "lon": -118.286952, 
+        "name": "Golden Sol", 
+        "address": "4446 Ambrose Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.1010728, 
+        "lon": -118.3444103, 
+        "name": "Corepower Yoga", 
+        "address": "7080 Hollywood Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0840134, 
+        "lon": -118.3617481, 
+        "name": "Earth?s Power Yoga Center", 
+        "address": "7901 Melrose Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0512366, 
+        "lon": -118.3844888, 
+        "name": "Yoga West", 
+        "address": "1535 S Robertson Blvd, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.1075897, 
+        "lon": -118.2632431, 
+        "name": "Silver Lake Yoga", 
+        "address": "2810 1/2 Glendale Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0339128, 
+        "lon": -118.1534802, 
+        "name": "People?s Yoga", 
+        "address": "5161 Pomona Blvd, Los Angeles, CA 90022"
+    }, 
+    {
+        "lat": 34.0473472, 
+        "lon": -118.3191769, 
+        "name": "Heal One World", 
+        "address": "3503 W Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.0621375, 
+        "lon": -118.3151112, 
+        "name": "Dahn Yoga", 
+        "address": "638 S Van Ness Ave, Los Angeles, CA 90005"
+    }, 
+    {
+        "lat": 34.0483235, 
+        "lon": -118.3339325, 
+        "name": "Happy Yoga LA", 
+        "address": "4510 W Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.1080653, 
+        "lon": -118.2684491, 
+        "name": "The Raven Spa", 
+        "address": "2910 Rowena Ave, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0999496, 
+        "lon": -118.2594876, 
+        "name": "Still Yoga", 
+        "address": "2395 Glendale Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0453008, 
+        "lon": -118.2496267, 
+        "name": "The Main Barre", 
+        "address": "560 S Main St, Los Angeles, CA 90013"
+    }, 
+    {
+        "lat": 33.9923088, 
+        "lon": -118.3304053, 
+        "name": "Crenshaw Yoga & Dance Studio", 
+        "address": "5426 Crenshaw Blvd, Los Angeles, CA 90043"
+    }, 
+    {
+        "lat": 34.0050118, 
+        "lon": -118.3338365, 
+        "name": "Lotus on the Nile Wellness Center", 
+        "address": "4307 S Crenshaw Blvd, Los Angeles, CA 90008"
+    }, 
+    {
+        "lat": 34.05649280000001, 
+        "lon": -118.2507356, 
+        "name": "Bikram Yoga Downtown LA", 
+        "address": "700 W 1st St, Los Angeles, CA 90012"
+    }, 
+    {
+        "lat": 34.037752, 
+        "lon": -118.2322516, 
+        "name": "The Springs", 
+        "address": "608 Mateo St, Los Angeles, CA 90021"
+    }, 
+    {
+        "lat": 34.064406, 
+        "lon": -118.346474, 
+        "name": "Yoga By Gia", 
+        "address": "611 S Cloverdale Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0832414, 
+        "lon": -118.294084, 
+        "name": "Fire Groove", 
+        "address": "671 N Berendo St, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.0481845, 
+        "lon": -118.4631619, 
+        "name": "CorePower Yoga", 
+        "address": "11819 Wilshire Blvd., Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0845291, 
+        "lon": -118.3438021, 
+        "name": "Club Pilates Hollywood/Los Angeles", 
+        "address": "730 N La Brea Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 33.9638862, 
+        "lon": -118.3091074, 
+        "name": "Green Tree Yoga Meditation Foundation", 
+        "address": "8227 S Western Ave, Los Angeles, CA 90047"
+    }, 
+    {
+        "lat": 34.079613, 
+        "lon": -118.269852, 
+        "name": "Silver Lake Pilates Studio", 
+        "address": "2520 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.118476, 
+        "lon": -118.260803, 
+        "name": "Bikram Yoga Silverlake", 
+        "address": "3223 Glendale Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0461335, 
+        "lon": -118.2600505, 
+        "name": "YAS Fitness Center", 
+        "address": "831 S Hope St, Los Angeles, CA 90017"
+    }, 
+    {
+        "lat": 34.1097509, 
+        "lon": -118.3500249, 
+        "name": "Runyon Canyon Yoga", 
+        "address": "2001 N Fuller Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0752607, 
+        "lon": -118.2177954, 
+        "name": "The Reformation Station", 
+        "address": "2222 Pasadena Ave, Los Angeles, CA 90031"
+    }, 
+    {
+        "lat": 34.1028156, 
+        "lon": -118.3459338, 
+        "name": "Black Market Yoga", 
+        "address": "1749 N La Brea Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0834592, 
+        "lon": -118.3555384, 
+        "name": "Jai Yoga Hollywood", 
+        "address": "7600 Melrose Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0607258, 
+        "lon": -118.3002599, 
+        "name": "Wilfit Sports Club", 
+        "address": "3470 Wilshire Blvd, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 34.078842, 
+        "lon": -118.373464, 
+        "name": "Backyard Yoga", 
+        "address": "419 N Orlando Ave, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.030752, 
+        "lon": -118.283056, 
+        "name": "The Art of Living Center", 
+        "address": "948 W Adams Blvd, Los Angeles, CA 90007"
+    }, 
+    {
+        "lat": 33.9884534, 
+        "lon": -118.4716455, 
+        "name": "Studio Surya Yoga", 
+        "address": "1501 Main St, Los Angeles, CA 90291"
+    }, 
+    {
+        "lat": 34.0729375, 
+        "lon": -118.3752511, 
+        "name": "AIR Aerial Fitness", 
+        "address": "8474 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0542908, 
+        "lon": -118.322711, 
+        "name": "Bhaktivedanta Yoga with Vishnu Das", 
+        "address": "4120 W Olympic Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.1170371, 
+        "lon": -118.2622706, 
+        "name": "Atwater Kundalini Yoga", 
+        "address": "3141 Glendale Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.1009589, 
+        "lon": -118.2876529, 
+        "name": "Transcendental Meditation Program", 
+        "address": "1655 Hillhurst Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0541108, 
+        "lon": -118.4053755, 
+        "name": "Nicole Doherty: ?Yoga, Health & Wellness", 
+        "address": "1280 Beverly Green Dr, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.0520794, 
+        "lon": -118.4717783, 
+        "name": "SoCal Hot Yoga Brentwood", 
+        "address": "11950 San Vicente Blvd, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.1170371, 
+        "lon": -118.2622706, 
+        "name": "Heartbeat House", 
+        "address": "3141 Glendale Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 33.963097, 
+        "lon": -118.406512, 
+        "name": "LiveYoga Wellness", 
+        "address": "6700 W 83rd St, Los Angeles, CA 90045"
+    }, 
+    {
+        "lat": 34.1011218, 
+        "lon": -118.2731766, 
+        "name": "Ashtanga Yoga Nilayam", 
+        "address": "2306 Hyperion Ave, Studio 1, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0653826, 
+        "lon": -118.372443, 
+        "name": "Get INtuit Yoga", 
+        "address": "640 S San Vicente, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0571325, 
+        "lon": -118.3590766, 
+        "name": "H2yOga", 
+        "address": "5870 W Olympic Blvd, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0311433, 
+        "lon": -118.2741254, 
+        "name": "ORS Pilates and Yoga", 
+        "address": "2234 S Figueroa St, Los Angeles, CA 90015"
+    }, 
+    {
+        "lat": 34.072365, 
+        "lon": -118.369731, 
+        "name": "Swerve Fitness Dance Yoga", 
+        "address": "8250 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.039053, 
+        "lon": -118.465169, 
+        "name": "BodyWellness", 
+        "address": "12304 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0841937, 
+        "lon": -118.2214402, 
+        "name": "Evolve Yoga Sacred Healing and Creative Arts", 
+        "address": "2626 N Figueroa St, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 34.0748887, 
+        "lon": -118.3082034, 
+        "name": "Be Open Yoga", 
+        "address": "Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.0741548, 
+        "lon": -118.3724915, 
+        "name": "Cuccio Yoga Somatology", 
+        "address": "Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.1404939, 
+        "lon": -118.3860958, 
+        "name": "Metamorphosis: Mind, Body, and Pole", 
+        "address": "11638 Ventura Blvd, Los Angeles, CA 91604"
+    }, 
+    {
+        "lat": 34.112589, 
+        "lon": -118.20683, 
+        "name": "TORQ", 
+        "address": "622 Milo Ter, Los Angeles, CA 90042"
+    }, 
+    {
+        "lat": 34.0543797, 
+        "lon": -118.2672801, 
+        "name": "Myyogini", 
+        "address": "Los Angeles, CA 90017"
+    }, 
+    {
+        "lat": 34.0401717, 
+        "lon": -118.4650531, 
+        "name": "Laughing Frog Yoga", 
+        "address": "12217 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.1020117, 
+        "lon": -118.3102633, 
+        "name": "YogaWorks Los Feliz", 
+        "address": "5531 Hollywood Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0982941, 
+        "lon": -118.3534721, 
+        "name": "Pure Barre", 
+        "address": "7519 W Sunset Blvd, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.03556700000001, 
+        "lon": -118.2337785, 
+        "name": "Trellis", 
+        "address": "1820 Industrial St, Los Angeles, CA 90021"
+    }, 
+    {
+        "lat": 34.0450105, 
+        "lon": -118.4538042, 
+        "name": "The Gym, LA", 
+        "address": "11567 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0285911, 
+        "lon": -118.3906863, 
+        "name": "The Gym@Hayden", 
+        "address": "3390 S Robertson Pl, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.0748887, 
+        "lon": -118.3082034, 
+        "name": "Divine Spark Yoga", 
+        "address": "Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.1015848, 
+        "lon": -118.3040533, 
+        "name": "Shaman?s Vision Sacred Arts", 
+        "address": "5222 Hollywood Blvd, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.081032, 
+        "lon": -118.2117257, 
+        "name": "Caroline Cardino Yoga & Bodywork", 
+        "address": "Los Angeles, CA 90031"
+    }, 
+    {
+        "lat": 34.0763966, 
+        "lon": -118.3757615, 
+        "name": "Train & Relax - Personal Training by Kate", 
+        "address": "8471 Beverly Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0869409, 
+        "lon": -118.2702036, 
+        "name": "Alpha Kitten Yoga", 
+        "address": "Silver Lake, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0504652, 
+        "lon": -118.362744, 
+        "name": "Whole Body Method", 
+        "address": "5700 W Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.024576, 
+        "lon": -118.20751, 
+        "name": "Yoga Larios", 
+        "address": "3202 Garnet St, Los Angeles, CA 90023"
+    }, 
+    {
+        "lat": 34.0230166, 
+        "lon": -118.4000101, 
+        "name": "re:YOGA Therapy", 
+        "address": "10001 Venice Blvd, Ste 107, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.0833373, 
+        "lon": -118.3480166, 
+        "name": "The Phoenix Effect", 
+        "address": "7264 Melrose Ave., Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.173965, 
+        "lon": -118.3296048, 
+        "name": "Yoga Blend", 
+        "address": "1921 W Magnolia Blvd, Burbank, CA 91506"
+    }, 
+    {
+        "lat": 34.0891388, 
+        "lon": -118.2763054, 
+        "name": "Pop Physique", 
+        "address": "3501 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.1220545, 
+        "lon": -118.2935891, 
+        "name": "Leaping Lotus Yoga", 
+        "address": "Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.10062, 
+        "lon": -118.286525, 
+        "name": "Karuna Yoga", 
+        "address": "4436 1/2 Camero Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 33.9548419, 
+        "lon": -118.3968049, 
+        "name": "Los Angeles Arts Collective", 
+        "address": "8939 S Sepulveda Blvd, Los Angeles, CA 90045"
+    }, 
+    {
+        "lat": 34.062402, 
+        "lon": -118.4472042, 
+        "name": "Yoga Court the", 
+        "address": "10956 1/2 Weyburn Ave, Los Angeles, CA 90024"
+    }, 
+    {
+        "lat": 34.0520049, 
+        "lon": -118.2546228, 
+        "name": "YMCA of Metropolitan", 
+        "address": "401 S Hope St, Los Angeles, CA 90071"
+    }, 
+    {
+        "lat": 34.0653641, 
+        "lon": -118.2222471, 
+        "name": "Christopher Filkins", 
+        "address": "651 Clover St, Los Angeles, CA 90031"
+    }, 
+    {
+        "lat": 34.1229732, 
+        "lon": -118.2688296, 
+        "name": "Erika Hall-Running, Yoga and Conditioning", 
+        "address": "3216 Los Feliz Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0417367, 
+        "lon": -118.4593706, 
+        "name": "Ananda Meditation and Yoga Center", 
+        "address": "11870 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0613249, 
+        "lon": -118.3022596, 
+        "name": "Yoga Whale", 
+        "address": "3550 Wilshire Blvd, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 34.1220545, 
+        "lon": -118.2935891, 
+        "name": "Breathe Deep Yoga", 
+        "address": "Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.10062, 
+        "lon": -118.286525, 
+        "name": "Bien Etre Studio", 
+        "address": "4436 1/2 Camero Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0443249, 
+        "lon": -118.4554588, 
+        "name": "Jagged Vertical Dance and Fitness", 
+        "address": "11655 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0419087, 
+        "lon": -118.4303925, 
+        "name": "The Balance Center", 
+        "address": "2313 Westwood Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0928092, 
+        "lon": -118.3286614, 
+        "name": "Jess Bishop - Private Yoga Instruction", 
+        "address": "Hollywood, Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0976919, 
+        "lon": -118.2746875, 
+        "name": "YAS Silverlake", 
+        "address": "1932 Hyperion Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.178555, 
+        "lon": -118.3962117, 
+        "name": "Nature Yoga", 
+        "address": "5940 1/2 Laurel Canyon Blvd, Los Angeles, CA 91607"
+    }, 
+    {
+        "lat": 34.0227352, 
+        "lon": -118.3960259, 
+        "name": "Goda Yoga", 
+        "address": "9711 Washington Blvd, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 34.2749394, 
+        "lon": -118.5628627, 
+        "name": "Pilates Plus Porter Ranch", 
+        "address": "19723 Rinaldi St, Los Angeles, CA 91326"
+    }, 
+    {
+        "lat": 34.0976546, 
+        "lon": -118.3313056, 
+        "name": "Cardio Barre", 
+        "address": "6464 Sunset Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 33.9923088, 
+        "lon": -118.3304053, 
+        "name": "SocaTone Fitness", 
+        "address": "5426 Crenshaw Blvd, Los Angeles, CA 90043"
+    }, 
+    {
+        "lat": 34.0631451, 
+        "lon": -118.4367551, 
+        "name": "Yoga By Lindsay", 
+        "address": "Los Angeles, CA 90024"
+    }, 
+    {
+        "lat": 34.0401391, 
+        "lon": -118.4274689, 
+        "name": "Ziba Beauty", 
+        "address": "Westside Pavilion, 10800 West Pico Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0748887, 
+        "lon": -118.3082034, 
+        "name": "Clay Kyle Yoga", 
+        "address": "Yoga Works Larchmont, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.1388896, 
+        "lon": -118.213616, 
+        "name": "One Down Dog", 
+        "address": "2150 Colorado Blvd, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.1081378, 
+        "lon": -118.3437915, 
+        "name": "Affirmats", 
+        "address": "7133 La Presa Dr, Los Angeles, CA 90068"
+    }, 
+    {
+        "lat": 34.0823625, 
+        "lon": -118.2717978, 
+        "name": "Yoga East", 
+        "address": "2815 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 33.9794779, 
+        "lon": -118.4655937, 
+        "name": "Yoga Nest Venice", 
+        "address": "38 Washington Blvd, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.0648746, 
+        "lon": -118.373432, 
+        "name": "Hot 8 Yoga", 
+        "address": "8383 Wilshire Blvd, Beverly Hills, CA 90211"
+    }, 
+    {
+        "lat": 34.1199851, 
+        "lon": -118.5921698, 
+        "name": "Peace Tree Healing", 
+        "address": "1861 North Topanga Canyon Blvd, Topanga, CA 90290"
+    }, 
+    {
+        "lat": 34.0489277, 
+        "lon": -118.3403506, 
+        "name": "HarmoniQ Healing", 
+        "address": "Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.0342569, 
+        "lon": -118.283559, 
+        "name": "Radha Yoga", 
+        "address": "2316 S Union Ave, Los Angeles, CA 90007"
+    }, 
+    {
+        "lat": 34.0835889, 
+        "lon": -118.3693819, 
+        "name": "Xtend Barre West Hollywood", 
+        "address": "8254 Melrose Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0745765, 
+        "lon": -118.2530573, 
+        "name": "Divine Dance Los Angeles", 
+        "address": "1426 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0510073, 
+        "lon": -118.383771, 
+        "name": "YogaFit", 
+        "address": "1540 S Robertson Blvd, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.16434830000001, 
+        "lon": -118.3962511, 
+        "name": "InYoga Center", 
+        "address": "5142 Laurel Canyon Blvd, North Hollywood, CA 91607"
+    }, 
+    {
+        "lat": 33.9697897, 
+        "lon": -118.2468148, 
+        "name": "Yoga", 
+        "address": "Los Angeles, CA 90001"
+    }, 
+    {
+        "lat": 34.0664817, 
+        "lon": -118.3520389, 
+        "name": "Movement Studio LA", 
+        "address": "Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0360159, 
+        "lon": -118.233054, 
+        "name": "Be Love Yoga & Bodywork", 
+        "address": "1855 Industrial St, Los Angeles, CA 90021"
+    }, 
+    {
+        "lat": 34.0237323, 
+        "lon": -118.3817858, 
+        "name": "Your Neighborhood Studio", 
+        "address": "3625 Hayden Ave, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 34.0258025, 
+        "lon": -118.3951415, 
+        "name": "Veda Yoga Center", 
+        "address": "9349 Venice Blvd, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 34.1024925, 
+        "lon": -118.2728142, 
+        "name": "Bobbi Jones, DC", 
+        "address": "2346 Hyperion Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.1096442, 
+        "lon": -118.192643, 
+        "name": "Ganesha House", 
+        "address": "Figueroa and Ave 57, Los Angeles, CA 90042"
+    }, 
+    {
+        "lat": 34.0904599, 
+        "lon": -118.3617479, 
+        "name": "YogaWorks West Hollywood", 
+        "address": "1067 North Fairfax, West Hollywood, CA 90046"
+    }, 
+    {
+        "lat": 34.0832414, 
+        "lon": -118.294084, 
+        "name": "Yoga at The Groove Spot", 
+        "address": "671 N Berendo St, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.0928814, 
+        "lon": -118.3786418, 
+        "name": "Aura Yoga", 
+        "address": "8608 W Sunset Blvd, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.0826077, 
+        "lon": -118.2721776, 
+        "name": "The Bar Method", 
+        "address": "2829 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0992117, 
+        "lon": -118.3270681, 
+        "name": "Cyclelates", 
+        "address": "1555 Vine St, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.10774500000001, 
+        "lon": -118.342115, 
+        "name": "JoLoop", 
+        "address": "2042 N Sycamore Ave, Los Angeles, CA 90068"
+    }, 
+    {
+        "lat": 34.1575396, 
+        "lon": -118.2404636, 
+        "name": "Glendale Yoga", 
+        "address": "746 N Glendale Ave, Glendale, CA 91206"
+    }, 
+    {
+        "lat": 34.2047141, 
+        "lon": -118.2279067, 
+        "name": "Yoga Rock Studios", 
+        "address": "3600 Ocean View Blvd, Glendale, CA 91208"
+    }, 
+    {
+        "lat": 34.152455, 
+        "lon": -118.4481243, 
+        "name": "Black Dog Yoga", 
+        "address": "4454 Van Nuys Blvd, Sherman Oaks, CA 91403"
+    }, 
+    {
+        "lat": 34.143363, 
+        "lon": -118.3922635, 
+        "name": "Lotus Kitty Yoga and Power Cycling", 
+        "address": "11961 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.1337784, 
+        "lon": -118.3584047, 
+        "name": "CorePower Yoga", 
+        "address": "3575 Cahuenga Blvd. West, Universal City, CA 90068"
+    }, 
+    {
+        "lat": 33.997981, 
+        "lon": -118.47331, 
+        "name": "The Yoga Collective", 
+        "address": "512 Rose Ave, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0776538, 
+        "lon": -118.2655178, 
+        "name": "Whole Body Method", 
+        "address": "2205 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0613249, 
+        "lon": -118.3022596, 
+        "name": "Chakra Yoga Center", 
+        "address": "3550 Wilshire Blvd, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 34.0493721, 
+        "lon": -118.3084179, 
+        "name": "Chen Bing Taiji Academy", 
+        "address": "1144 S Western Ave, Los Angeles, CA 90006"
+    }, 
+    {
+        "lat": 34.0931603, 
+        "lon": -118.3783347, 
+        "name": "Maranda Barskey", 
+        "address": "Los Angeles, CA 90069"
+    }, 
+    {
+        "lat": 33.9463169, 
+        "lon": -118.2915241, 
+        "name": "Weingart YMCA Wellness & Aquatic Center", 
+        "address": "9900 S Vermont Ave, Los Angeles, CA 90044"
+    }, 
+    {
+        "lat": 34.034356, 
+        "lon": -118.447109, 
+        "name": "Ladan?s Fitness Club", 
+        "address": "11660 W Olympic Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0515636, 
+        "lon": -118.2550713, 
+        "name": "Equinox", 
+        "address": "444 Flower St, Los Angeles, CA 90071"
+    }, 
+    {
+        "lat": 34.114964, 
+        "lon": -118.213501, 
+        "name": "Kanzeonji Buddhist Temple and Shiva Ashram", 
+        "address": "961 Terrace 49, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 33.972612, 
+        "lon": -118.422844, 
+        "name": "Yoga Vista", 
+        "address": "13020 Pacific Promenade, Playa Vista, CA 90094"
+    }, 
+    {
+        "lat": 34.1485754, 
+        "lon": -118.4356726, 
+        "name": "CorePower Yoga", 
+        "address": "13920 Ventura Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.167305, 
+        "lon": -118.3987842, 
+        "name": "Tali?s Fitness", 
+        "address": "Los Angeles, CA 91607"
+    }, 
+    {
+        "lat": 34.0023056, 
+        "lon": -118.4692007, 
+        "name": "The Venice Movement Arts Center", 
+        "address": "122 S Lincoln Blvd, Los Angeles, CA 90291"
+    }, 
+    {
+        "lat": 34.0728559, 
+        "lon": -118.3739143, 
+        "name": "The Bar Method", 
+        "address": "8416 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.022018, 
+        "lon": -118.404687, 
+        "name": "Holistic Health Healing & Fitness with Leslie Porter", 
+        "address": "3734 Motor Ave, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 33.9508728, 
+        "lon": -118.4455164, 
+        "name": "Kasey Kilmer Fitness", 
+        "address": "Los Angeles, CA 90293"
+    }, 
+    {
+        "lat": 34.1413307, 
+        "lon": -118.372015, 
+        "name": "Up Flying Yoga", 
+        "address": "11101 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.0914637, 
+        "lon": -118.350834, 
+        "name": "Theyogabarre", 
+        "address": "7377 Santa Monica Blvd, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.1030032, 
+        "lon": -118.4104684, 
+        "name": "Jennifer Black Private Yoga", 
+        "address": "Los Angeles, CA 90210"
+    }, 
+    {
+        "lat": 34.099891, 
+        "lon": -118.245835, 
+        "name": "Heather Funston", 
+        "address": "2706 Newell St, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.1448094, 
+        "lon": -118.2689431, 
+        "name": "Jewel City Yoga", 
+        "address": "654 Hawthorne St, Glendale, CA 91204"
+    }, 
+    {
+        "lat": 34.0312957, 
+        "lon": -118.4467843, 
+        "name": "The Yoga Doctors Mandiram", 
+        "address": "11745 W Pico Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.118788, 
+        "lon": -118.2490278, 
+        "name": "AAY! Fitness & Nutrition Program", 
+        "address": "3347 N San Fernando Rd, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Christina Huntington Meditation", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0454559, 
+        "lon": -118.2517451, 
+        "name": "UEvolution Mind and Body Sculpting", 
+        "address": "621 S Spring St, Los Angeles, CA 90014"
+    }, 
+    {
+        "lat": 34.0758637, 
+        "lon": -118.3528937, 
+        "name": "Dancing Shiva Yoga & Ayurveda", 
+        "address": "7466 Beverly Blvd, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0081611, 
+        "lon": -118.4121642, 
+        "name": "Omkar 108 Ashtanga Yoga", 
+        "address": "11154 Washington Blvd, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 34.0246769, 
+        "lon": -118.4110162, 
+        "name": "Raindrop Bodyworks", 
+        "address": "3500 Overland Ave, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.0627014, 
+        "lon": -118.3094718, 
+        "name": "Fitness M", 
+        "address": "621 S Western Ave, Los Angeles, CA 90005"
+    }, 
+    {
+        "lat": 34.150997, 
+        "lon": -118.2554646, 
+        "name": "Bella Fitness", 
+        "address": "329 N Brand Blvd, Glendale, CA 91203"
+    }, 
+    {
+        "lat": 34.13224690000001, 
+        "lon": -118.2117257, 
+        "name": "Peaceful Lion Yoga", 
+        "address": "Peaceful.lion.yoga@gmail.com, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.041668, 
+        "lon": -118.4438076, 
+        "name": "The Bar Method", 
+        "address": "1950 Sawtelle Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0851277, 
+        "lon": -118.1780363, 
+        "name": "Tiffany?s Zumba Studio", 
+        "address": "3354 N Eastern Ave, Los Angeles, CA 90032"
+    }, 
+    {
+        "lat": 33.9868647, 
+        "lon": -118.4441451, 
+        "name": "Yoga Salt", 
+        "address": "4206 Lincoln Blvd, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.0725849, 
+        "lon": -118.312741, 
+        "name": "Hari Nam Singh and Healing Heart Center", 
+        "address": "115 S Gramercy Pl, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.152166, 
+        "lon": -118.370668, 
+        "name": "The Yogi Tree Center for Growth", 
+        "address": "4475 Vineland Ave, North Hollywood, CA 91602"
+    }, 
+    {
+        "lat": 34.1550464, 
+        "lon": -118.4740834, 
+        "name": "DToX Fitness", 
+        "address": "15622 Ventura Blvd, Los Angeles, CA 91436"
+    }, 
+    {
+        "lat": 34.1604514, 
+        "lon": -118.5053185, 
+        "name": "Forward Fold", 
+        "address": "17071 Ventura Blvd, Encino, CA 91316"
+    }, 
+    {
+        "lat": 34.033032, 
+        "lon": -118.390959, 
+        "name": "Movement By Susy", 
+        "address": "3024 Livonia Ave, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.0172386, 
+        "lon": -118.4993122, 
+        "name": "Yogis Anonymous", 
+        "address": "1221 2nd St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.0027237, 
+        "lon": -118.4328164, 
+        "name": "Caley Alyssa", 
+        "address": "Pacific Heights, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.084538, 
+        "lon": -118.601008, 
+        "name": "The Gong Guy", 
+        "address": "518 Fernwood Pacific Dr, Los Angeles, CA 91356"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "Elena Schuber Yoga", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.00974600000001, 
+        "lon": -118.4659576, 
+        "name": "Alice Maples Coaching", 
+        "address": "Los Angeles, CA 90405"
+    }, 
+    {
+        "lat": 33.9966321, 
+        "lon": -118.4767975, 
+        "name": "Full Circle Venice", 
+        "address": "305 Rose Ave, Los Angeles, CA 90291"
+    }, 
+    {
+        "lat": 34.0613249, 
+        "lon": -118.3022596, 
+        "name": "Chigusa Saga", 
+        "address": "3550 Wilshire Blvd, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 34.0543797, 
+        "lon": -118.2672801, 
+        "name": "Energy Alignment Yoga", 
+        "address": "Los Angeles, CA 90017"
+    }, 
+    {
+        "lat": 34.0598079, 
+        "lon": -118.3681515, 
+        "name": "Radiance Technology Energy Therapy", 
+        "address": "955 Carillo Dr, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0977437, 
+        "lon": -118.3649547, 
+        "name": "Crunch", 
+        "address": "8000 Sunset Blvd, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.014432, 
+        "lon": -118.497055, 
+        "name": "Brian Kest Power Yoga", 
+        "address": "1410 2nd St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.152455, 
+        "lon": -118.4481243, 
+        "name": "Two Hearts Yoga", 
+        "address": "4454 Van Nuys Blvd, Sherman Oaks, CA 91403"
+    }, 
+    {
+        "lat": 34.0119986, 
+        "lon": -118.4672955, 
+        "name": "Santa Monica Yoga", 
+        "address": "1640 Ocean Pk Blvd, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.1647746, 
+        "lon": -118.3595996, 
+        "name": "Jade Apple", 
+        "address": "10502 Magnolia Blvd, North Hollywood, CA 91601"
+    }, 
+    {
+        "lat": 33.9959242, 
+        "lon": -118.4780915, 
+        "name": "Exhale Venice", 
+        "address": "245 S Main St, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.1425905, 
+        "lon": -118.4033989, 
+        "name": "Yoga Shelter", 
+        "address": "12408 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.0295328, 
+        "lon": -118.473076, 
+        "name": "Truyoga", 
+        "address": "2425 Colorado Ave, Santa Monica, CA 90404"
+    }, 
+    {
+        "lat": 34.0325991, 
+        "lon": -118.4943378, 
+        "name": "YogaWorks Montana Ave", 
+        "address": "1426 Montana Ave, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.1256928, 
+        "lon": -118.150847, 
+        "name": "Yoga House", 
+        "address": "11 W State St, Pasadena, CA 91105"
+    }, 
+    {
+        "lat": 34.046517, 
+        "lon": -118.462838, 
+        "name": "The Body Repair Shop", 
+        "address": "1227 Westgate Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 33.9787422, 
+        "lon": -118.3575146, 
+        "name": "Clear Gardens Yoga Studio", 
+        "address": "1210 N La Brea Ave, Inglewood, CA 90302"
+    }, 
+    {
+        "lat": 34.0525509, 
+        "lon": -118.3872521, 
+        "name": "Damian Hagglund", 
+        "address": "9017 Cashio St, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 33.9516114, 
+        "lon": -118.3875775, 
+        "name": "LA Yoga Vita", 
+        "address": "Los Angeles, CA 90045"
+    }, 
+    {
+        "lat": 34.1175895, 
+        "lon": -118.188329, 
+        "name": "Claire Thompson", 
+        "address": "Los Angeles, CA 90042"
+    }, 
+    {
+        "lat": 34.0315955, 
+        "lon": -118.4629968, 
+        "name": "YogaGlo", 
+        "address": "1800 Berkeley St, Santa Monica, CA 90404"
+    }, 
+    {
+        "lat": 33.8999392, 
+        "lon": -118.4171658, 
+        "name": "The Green Yogi", 
+        "address": "3504 Highland Ave, Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 33.9186123, 
+        "lon": -118.4164269, 
+        "name": "Back For Yoga", 
+        "address": "255 Main St, El Segundo, CA 90245"
+    }, 
+    {
+        "lat": 34.08731119999999, 
+        "lon": -118.2757297, 
+        "name": "The Sweat Spot", 
+        "address": "3327 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.1154651, 
+        "lon": -118.1564965, 
+        "name": "Mission Street Yoga", 
+        "address": "1017 Mission St, South Pasadena, CA 91030"
+    }, 
+    {
+        "lat": 33.9884534, 
+        "lon": -118.4716455, 
+        "name": "Yoga By Yonnus", 
+        "address": "1501 Main St, Los Angeles, CA 90291"
+    }, 
+    {
+        "lat": 34.0388198, 
+        "lon": -118.2324549, 
+        "name": "The Rec Center CrossFit", 
+        "address": "588 Mateo St, Los Angeles, CA 90013"
+    }, 
+    {
+        "lat": 34.0489277, 
+        "lon": -118.3403506, 
+        "name": "Balance Work Yoga and Massage", 
+        "address": "Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.0579326, 
+        "lon": -118.445884, 
+        "name": "Equinox", 
+        "address": "10960 Wilshire Blvd, Los Angeles, CA 90024"
+    }, 
+    {
+        "lat": 34.1658804, 
+        "lon": -118.3637264, 
+        "name": "Matt Hoglund Yoga", 
+        "address": "Los Angeles, CA 91601"
+    }, 
+    {
+        "lat": 34.2648833, 
+        "lon": -118.5182051, 
+        "name": "Prema Yoga", 
+        "address": "17617 Chatsworth St, Granada Hills, CA 91344"
+    }, 
+    {
+        "lat": 34.0754456, 
+        "lon": -118.3442464, 
+        "name": "Yogamaze", 
+        "address": "169 N La Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.068709, 
+        "lon": -118.343246, 
+        "name": "Mind & Motion Pilates & Beyond", 
+        "address": "5650 W 3rd St, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0805818, 
+        "lon": -118.3869332, 
+        "name": "Rise Movement", 
+        "address": "8906 Melrose Ave, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.0857998, 
+        "lon": -118.3389172, 
+        "name": "The Barboza Method", 
+        "address": "817 N Highland Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.0184356, 
+        "lon": -118.4971797, 
+        "name": "Naam Yoga LA", 
+        "address": "1231-35 4th St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.1609124, 
+        "lon": -118.5079681, 
+        "name": "CorePower Yoga", 
+        "address": "17175 Ventura Blvd, Encino, CA 91316"
+    }, 
+    {
+        "lat": 34.0486866, 
+        "lon": -118.3560746, 
+        "name": "Yogi Civilian", 
+        "address": "5409 W Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.1420032, 
+        "lon": -118.3944273, 
+        "name": "Root 2 Rise Yoga", 
+        "address": "3940 Laurel Canyon Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Nathan Johnson Yoga", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.155776, 
+        "lon": -118.457772, 
+        "name": "Stretch For Health", 
+        "address": "4705 Kester Ave, Los Angeles, CA 91403"
+    }, 
+    {
+        "lat": 34.1580249, 
+        "lon": -118.4932133, 
+        "name": "Heal and Soul Yoga", 
+        "address": "16545 Ventura Blvd, Encino, CA 91436"
+    }, 
+    {
+        "lat": 33.86297649999999, 
+        "lon": -118.3999434, 
+        "name": "SoHo Yoga", 
+        "address": "1242 Hermosa Ave, Hermosa Beach, CA 90254"
+    }, 
+    {
+        "lat": 34.014292, 
+        "lon": -118.4966796, 
+        "name": "Hot 8 Yoga", 
+        "address": "1422 2nd St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.0050173, 
+        "lon": -118.4338345, 
+        "name": "Gina Soni Fitness", 
+        "address": "Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.0655627, 
+        "lon": -118.3096648, 
+        "name": "Govilove Ayurveda", 
+        "address": "Los Angeles, CA 90020"
+    }, 
+    {
+        "lat": 33.9587444, 
+        "lon": -118.4491722, 
+        "name": "Art of Pilates", 
+        "address": "165 Culver Blvd, Playa Del Rey, CA 90293"
+    }, 
+    {
+        "lat": 34.09489, 
+        "lon": -118.358936, 
+        "name": "Living Lighthouse", 
+        "address": "1314 N Ogden Dr, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 33.9572237, 
+        "lon": -118.3963093, 
+        "name": "Body & Brain Yoga", 
+        "address": "8801 Sepulveda Blvd, Westchester, CA 90045"
+    }, 
+    {
+        "lat": 34.1644812, 
+        "lon": -118.441658, 
+        "name": "Rising Lotus Yoga", 
+        "address": "14148 Magnolia Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.0751301, 
+        "lon": -118.3839194, 
+        "name": "lululemon athletica", 
+        "address": "105 South Robertson Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0763258, 
+        "lon": -118.364971, 
+        "name": "Easton Gym", 
+        "address": "8053 Beverly Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 33.9059764, 
+        "lon": -118.3908522, 
+        "name": "YogaWorks South Bay", 
+        "address": "740 Allied Way, El Segundo, CA 90245"
+    }, 
+    {
+        "lat": 34.1172281, 
+        "lon": -118.2476322, 
+        "name": "Crossfit Ganbatte", 
+        "address": "3235 N San Fernando Rd, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 34.0921873, 
+        "lon": -118.2670922, 
+        "name": "Flow Together Fitness", 
+        "address": "1850 W Silver Lake Dr, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 33.884072, 
+        "lon": -118.4109451, 
+        "name": "The Yoga Loft", 
+        "address": "1112 Ocean Dr, Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 34.0339764, 
+        "lon": -118.4927491, 
+        "name": "YogaHop", 
+        "address": "1612 Montana Ave, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 33.98824159999999, 
+        "lon": -118.4515373, 
+        "name": "Bikram Yoga Marina Del Rey", 
+        "address": "2903 Washington Blvd, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 33.9874043, 
+        "lon": -118.4528601, 
+        "name": "Studio U", 
+        "address": "760 W Washington Blvd, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.098355, 
+        "lon": -118.354445, 
+        "name": "Fit Arts", 
+        "address": "7561 Sunset Blvd, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.005426, 
+        "lon": -118.486665, 
+        "name": "YogaWorks Main Street", 
+        "address": "2215 Main St, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.0466579, 
+        "lon": -118.2497664, 
+        "name": "Yoga At The LATC", 
+        "address": "514 S Spring St, Los Angeles, CA 90013"
+    }, 
+    {
+        "lat": 34.0481761, 
+        "lon": -118.4911261, 
+        "name": "Maha Yoga", 
+        "address": "13050 San Vicente Blvd, Brentwood, CA 90049"
+    }, 
+    {
+        "lat": 33.9923976, 
+        "lon": -118.4423767, 
+        "name": "Sivananda Yoga Vedanta Center", 
+        "address": "13325 Beach Ave, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.1103407, 
+        "lon": -118.2585096, 
+        "name": "Feels Pretty Awesome", 
+        "address": "Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0596665, 
+        "lon": -118.390031, 
+        "name": "Peace in Practice Wellness", 
+        "address": "367 S Doheny Dr, Beverly Hills, CA 90211"
+    }, 
+    {
+        "lat": 34.0366954, 
+        "lon": -118.2414843, 
+        "name": "That Space", 
+        "address": "1242 E 7th St, Los Angeles, CA 90021"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Kings Road Yoga", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.2077353, 
+        "lon": -118.2336049, 
+        "name": "Yoga Studio", 
+        "address": "2509 Honolulu Ave, Montrose, CA 91020"
+    }, 
+    {
+        "lat": 34.1210172, 
+        "lon": -118.1072718, 
+        "name": "Pop Physique", 
+        "address": "2134 Huntington Dr, San Marino, CA 91108"
+    }, 
+    {
+        "lat": 34.1682185, 
+        "lon": -118.6048494, 
+        "name": "Inner Power Yoga Studio", 
+        "address": "21928 Ventura Blvd, Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 33.8741401, 
+        "lon": -118.3528742, 
+        "name": "CorePower Yoga", 
+        "address": "4407 Redondo Beach Blvd, Lawndale, CA 90260"
+    }, 
+    {
+        "lat": 34.1158855, 
+        "lon": -118.1639113, 
+        "name": "Bikram Yoga South Pasadena", 
+        "address": "526 Mission St, South Pasadena, CA 91030"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Michelle Mikolis Yoga", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0715263, 
+        "lon": -118.3629439, 
+        "name": "Pop Physique", 
+        "address": "7940 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.1843102, 
+        "lon": -118.1324014, 
+        "name": "Yoga Divina", 
+        "address": "2235 N Lake, Altadena, CA 91001"
+    }, 
+    {
+        "lat": 34.1012814, 
+        "lon": -118.312969, 
+        "name": "Cirque School", 
+        "address": "5640 1/2 Hollywood Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0179893, 
+        "lon": -118.4903327, 
+        "name": "Golden Bridge Yoga", 
+        "address": "719 Broadway, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 33.864202, 
+        "lon": -118.3925338, 
+        "name": "HIP Studio", 
+        "address": "1200 Pacific Coast Hwy, Hermosa Beach, CA 90254"
+    }, 
+    {
+        "lat": 34.1364643, 
+        "lon": -118.1325577, 
+        "name": "Yoga Kingdom Sanctuary", 
+        "address": "553 S Lake Ave, Pasadena, CA 91101"
+    }, 
+    {
+        "lat": 34.0478276, 
+        "lon": -118.3491027, 
+        "name": "Harakati Studios", 
+        "address": "5084 Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 33.9876937, 
+        "lon": -118.4556571, 
+        "name": "Kyra Anastasia", 
+        "address": "Marr St, Los Angeles, CA 90291"
+    }, 
+    {
+        "lat": 34.1476539, 
+        "lon": -118.4305446, 
+        "name": "Pilate-ology", 
+        "address": "13630 Ventura Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.063581, 
+        "lon": -118.2935446, 
+        "name": "Fast Lean Fit", 
+        "address": "3276 W 6th St, Los Angeles, CA 90020"
+    }, 
+    {
+        "lat": 34.1454823, 
+        "lon": -118.1498366, 
+        "name": "YogaHop", 
+        "address": "26 E Colorado Blvd, Pasadena, CA 91105"
+    }, 
+    {
+        "lat": 34.0532003, 
+        "lon": -118.4701815, 
+        "name": "YOGASMOGA", 
+        "address": "11911 San Vicente Blvd, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "Be Well By Kelly Leveque", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.1122793, 
+        "lon": -118.2358062, 
+        "name": "Movement Art Space", 
+        "address": "3326 Verdugo Rd, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 34.1103407, 
+        "lon": -118.2585096, 
+        "name": "Kerrie Cason Yoga", 
+        "address": "Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 33.9769328, 
+        "lon": -118.3679336, 
+        "name": "Casa Cultura", 
+        "address": "1623 Centinela Ave, Inglewood, CA 90302"
+    }, 
+    {
+        "lat": 34.0542908, 
+        "lon": -118.322711, 
+        "name": "Century Day & Night Spa", 
+        "address": "4120 W Olympic Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 33.9813536, 
+        "lon": -118.4599073, 
+        "name": "YOGAqua", 
+        "address": "4101 Admiralty Way, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.1615135, 
+        "lon": -118.3403506, 
+        "name": "Monica Ross Yoga", 
+        "address": "Los Angeles, CA 91505"
+    }, 
+    {
+        "lat": 34.0498473, 
+        "lon": -118.2581835, 
+        "name": "Prime Performance", 
+        "address": "811 Wilshire Blvd, Los Angeles, CA 90017"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "YOGAthletica", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.0715378, 
+        "lon": -118.4453625, 
+        "name": "John Wooden Center", 
+        "address": "221 Westwood Plz, Los Angeles, CA 90095"
+    }, 
+    {
+        "lat": 34.148857, 
+        "lon": -118.1069116, 
+        "name": "Tara Napoli?s Power Yoga", 
+        "address": "2100 E Walnut St, Pasadena, CA 91107"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Yoga Kulture", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.1147313, 
+        "lon": -118.3637264, 
+        "name": "Erin Haynes Yoga", 
+        "address": "Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.158029, 
+        "lon": -118.36506, 
+        "name": "YogAlign LA", 
+        "address": "10741 Camarillo St, North Hollywood, CA 91602"
+    }, 
+    {
+        "lat": 34.169426, 
+        "lon": -118.607186, 
+        "name": "BE The Change Energy Center", 
+        "address": "22030 Clarendon St, Los Angeles, CA 91367"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "Mini Yogis Yoga For Kids", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.1417355, 
+        "lon": -118.0080025, 
+        "name": "Yoga Cove", 
+        "address": "413 W Maple Ave, Monrovia, CA 91016"
+    }, 
+    {
+        "lat": 34.0050173, 
+        "lon": -118.4338345, 
+        "name": "Warrior Within Fitness", 
+        "address": "Culver City, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.0232189, 
+        "lon": -118.438065, 
+        "name": "A4 Fitness", 
+        "address": "11671 National Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.09232120000001, 
+        "lon": -118.3795317, 
+        "name": "Hot Pilates", 
+        "address": "8604 Sunset Blvd, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.0382615, 
+        "lon": -118.2333171, 
+        "name": "LA Boulders", 
+        "address": "1375 E 6th St, Los Angeles, CA 90021"
+    }, 
+    {
+        "lat": 33.97448060000001, 
+        "lon": -118.4177707, 
+        "name": "Yoga By Jenni", 
+        "address": "Los Angeles, CA 90094"
+    }, 
+    {
+        "lat": 34.1023719, 
+        "lon": -118.3384794, 
+        "name": "CrossFit SolCity", 
+        "address": "1724 Highland Ave, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.1154517, 
+        "lon": -118.1565982, 
+        "name": "Centre Barre", 
+        "address": "1015 Mission St, South Pasadena, CA 91030"
+    }, 
+    {
+        "lat": 34.1691004, 
+        "lon": -118.1150093, 
+        "name": "East Village Yoga Pasadena", 
+        "address": "1720 E Washington Blvd, Pasadena, CA 91104"
+    }, 
+    {
+        "lat": 34.0728284, 
+        "lon": -118.3437135, 
+        "name": "Brittany Wilkerson Yoga", 
+        "address": "124 S Labrea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 33.991992, 
+        "lon": -118.470434, 
+        "name": "YAS Fitness Centers", 
+        "address": "1101 Abbot Kinney Blvd, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0758637, 
+        "lon": -118.3528937, 
+        "name": "Gianna De La Torre, LAc", 
+        "address": "7466 Beverly Blvd., Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0448583, 
+        "lon": -118.4484367, 
+        "name": "Gigi Yogini", 
+        "address": "Santa Monica, CA 90025"
+    }, 
+    {
+        "lat": 34.0178266, 
+        "lon": -118.5014367, 
+        "name": "Exhale Santa Monica", 
+        "address": "101 Wilshire Blvd, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.1012181, 
+        "lon": -118.325739, 
+        "name": "Kundalini Yoga Boot Camp", 
+        "address": "Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.1147313, 
+        "lon": -118.3637264, 
+        "name": "Nathalie Fino - Private Yoga Instruction", 
+        "address": "Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.14315029999999, 
+        "lon": -118.0325011, 
+        "name": "Santa Anita Hot Yoga Studio", 
+        "address": "290 Rolyn Pl, Arcadia, CA 91007"
+    }, 
+    {
+        "lat": 34.1320635, 
+        "lon": -118.2162708, 
+        "name": "Mockingbird Yoga", 
+        "address": "4777 Eagle Rock Blvd, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 33.8646204, 
+        "lon": -118.3925873, 
+        "name": "LYFE Yoga Center", 
+        "address": "1310 Pacific Coast Hwy, Hermosa Beach, CA 90254"
+    }, 
+    {
+        "lat": 34.1097509, 
+        "lon": -118.3500249, 
+        "name": "Runyon Canyon Park", 
+        "address": "2001 N Fuller Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0604906, 
+        "lon": -118.4133405, 
+        "name": "David Barton Gym", 
+        "address": "1950 Century Park E, Los Angeles, CA 90067"
+    }, 
+    {
+        "lat": 33.8479772, 
+        "lon": -118.38955, 
+        "name": "Studio Pulse", 
+        "address": "409 N Pacific Coast Hwy, Redondo Beach, CA 90277"
+    }, 
+    {
+        "lat": 34.0567179, 
+        "lon": -118.39529, 
+        "name": "Philosophie", 
+        "address": "1115 S Elm Dr, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.047927, 
+        "lon": -118.376495, 
+        "name": "Linda Lack The Thinking Body The Feeling Mind", 
+        "address": "1637 S La Cienega Blvd, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.1372079, 
+        "lon": -118.2572824, 
+        "name": "Body & Brain Glendale", 
+        "address": "730 S Central Ave, Glendale, CA 91204"
+    }, 
+    {
+        "lat": 34.1011218, 
+        "lon": -118.2731766, 
+        "name": "Studio A Dance", 
+        "address": "2306 Hyperion Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 33.882598, 
+        "lon": -118.409751, 
+        "name": "Gurus Gate Yoga", 
+        "address": "815 Manhattan Ave, Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 34.030972, 
+        "lon": -118.229615, 
+        "name": "play", 
+        "address": "1018 S Santa Fe Avenue, Los Angeles, CA 90021"
+    }, 
+    {
+        "lat": 33.804541, 
+        "lon": -118.3284742, 
+        "name": "CorePower Yoga", 
+        "address": "24329 E. Crenshaw Blvd., Torrance, CA 90505"
+    }, 
+    {
+        "lat": 34.0653347, 
+        "lon": -118.243891, 
+        "name": "Jill Weiss", 
+        "address": "Los Angeles, CA 90012"
+    }, 
+    {
+        "lat": 34.1499156, 
+        "lon": -118.3787067, 
+        "name": "Soulful Healing", 
+        "address": "4370 Tujunga Ave, San Fernando Valley, CA 91604"
+    }, 
+    {
+        "lat": 34.1562514, 
+        "lon": -118.3628075, 
+        "name": "Shosha Yoga", 
+        "address": "4719 Willow Crest Ave, North Hollywood, CA 91602"
+    }, 
+    {
+        "lat": 35.9805462, 
+        "lon": -86.761749, 
+        "name": "Practical Happiness Yoga", 
+        "address": "Nashville, TN 37027"
+    }, 
+    {
+        "lat": 34.001862, 
+        "lon": -118.4684868, 
+        "name": "The Love Dome", 
+        "address": "200 Lincoln Blvd, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.073761, 
+        "lon": -118.0417179, 
+        "name": "Revelations Yoga", 
+        "address": "3580 Santa Anita Ave, El Monte, CA 91731"
+    }, 
+    {
+        "lat": 34.1147313, 
+        "lon": -118.3637264, 
+        "name": "Source of Yoga", 
+        "address": "Beverly Hills, CA 90046"
+    }, 
+    {
+        "lat": 34.2345782, 
+        "lon": -118.5363223, 
+        "name": "North Valley Aikikai", 
+        "address": "9029 Reseda Blvd, Northridge, CA 91324"
+    }, 
+    {
+        "lat": 34.0760634, 
+        "lon": -118.2557857, 
+        "name": "Thai Friendly Massage", 
+        "address": "1518 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.1433731, 
+        "lon": -118.4003645, 
+        "name": "YogaWorks Studio City", 
+        "address": "12265 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.056064, 
+        "lon": -118.344358, 
+        "name": "Miagyi Zen Wellness", 
+        "address": "1070 S La Brea Ave, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.085682, 
+        "lon": -118.3444443, 
+        "name": "FitnessKor", 
+        "address": "815 N La Brea Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.04923550000001, 
+        "lon": -118.2528893, 
+        "name": "Los Angeles Parks n Recreation", 
+        "address": "532 S. Olive Street, Los Angeles, CA 90013"
+    }, 
+    {
+        "lat": 34.052183, 
+        "lon": -118.470972, 
+        "name": "lululemon athletica", 
+        "address": "11920 San Vicente Blvd, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.0544731, 
+        "lon": -118.4035754, 
+        "name": "Blue Garage Pilates", 
+        "address": "9826 Vidor Drive, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 34.0158797, 
+        "lon": -118.4902737, 
+        "name": "Studio Maesto", 
+        "address": "1547 6th St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.0194543, 
+        "lon": -118.4911912, 
+        "name": "Beach Yoga with Brad", 
+        "address": "Marine St &amp; Water's Edge, Santa Monica, CA"
+    }, 
+    {
+        "lat": 33.8544827, 
+        "lon": -118.3906932, 
+        "name": "Harmony Yoga", 
+        "address": "901 N Pacific Coast Hwy, Redondo Beach, CA 90277"
+    }, 
+    {
+        "lat": 34.0012838, 
+        "lon": -118.4676706, 
+        "name": "Ra Ma Institute", 
+        "address": "304 Lincoln Blvd, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.166687, 
+        "lon": -118.5876033, 
+        "name": "The Absolute Yoga & Pilates Studio", 
+        "address": "20855 Ventura Blvd, Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 34.0386656, 
+        "lon": -118.4221519, 
+        "name": "RBG Fitness", 
+        "address": "Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0824591, 
+        "lon": -118.3886477, 
+        "name": "Awakened Warrior Yoga Teacher Training", 
+        "address": "9053 Nemo St, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.06035749999999, 
+        "lon": -118.3450642, 
+        "name": "Function 5 Fitness", 
+        "address": "805 S LA Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0578814, 
+        "lon": -118.3096648, 
+        "name": "Stone Cut Bodies", 
+        "address": "Los Angeles, CA 90005"
+    }, 
+    {
+        "lat": 34.085682, 
+        "lon": -118.3444443, 
+        "name": "Berry Pilates", 
+        "address": "815 N LaBrea Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.0636799, 
+        "lon": -118.2170764, 
+        "name": "The Stronghold Climbing Gym", 
+        "address": "650 S Ave 21, Los Angeles, CA 90031"
+    }, 
+    {
+        "lat": 34.0493721, 
+        "lon": -118.3084179, 
+        "name": "I Love Pilates & Flying Yoga", 
+        "address": "1144 S Western Ave, Los Angeles, CA 90006"
+    }, 
+    {
+        "lat": 33.9846989, 
+        "lon": -118.4009548, 
+        "name": "Evolution Physical Therapy", 
+        "address": "11825 Major St, Culver City, CA 90230"
+    }, 
+    {
+        "lat": 34.1462301, 
+        "lon": -118.1074068, 
+        "name": "Bikram Yoga Pasadena", 
+        "address": "2089 E Colorado Blvd, Pasadena, CA 91107"
+    }, 
+    {
+        "lat": 34.1019859, 
+        "lon": -118.311147, 
+        "name": "PANTHER Martial Arts & FAMILY Fitness", 
+        "address": "5555 Hollywood Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.1616847, 
+        "lon": -118.0531482, 
+        "name": "Yoga Madre", 
+        "address": "16 W Sierra Madre Blvd, Sierra Madre, CA 91024"
+    }, 
+    {
+        "lat": 34.0729375, 
+        "lon": -118.3752511, 
+        "name": "Trinity Health & Wellness Medical Group", 
+        "address": "8474 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0994853, 
+        "lon": -118.3326753, 
+        "name": "Hollywood Wilshire YMCA", 
+        "address": "1553 Schrader Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.1850734, 
+        "lon": -118.3148299, 
+        "name": "Crunch", 
+        "address": "761 N San Fernando Blvd, Burbank, CA 91502"
+    }, 
+    {
+        "lat": 34.086723, 
+        "lon": -118.27612, 
+        "name": "Yoga On Larissa", 
+        "address": "3315 Larissa Dr, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.1957007, 
+        "lon": -118.606144, 
+        "name": "Tiger Wave Yoga", 
+        "address": "6901 Topanga Canyon Blvd, Los Angeles, CA 91303"
+    }, 
+    {
+        "lat": 34.1036317, 
+        "lon": -118.3230725, 
+        "name": "Puente Yoga - Hollywood", 
+        "address": "6125 Carlos Ave, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 33.9965352, 
+        "lon": -118.428259, 
+        "name": "The Resolute Mind", 
+        "address": "4307 1/2 S Centinela Ave, Mar Vista, CA 90066"
+    }, 
+    {
+        "lat": 34.13224690000001, 
+        "lon": -118.2117257, 
+        "name": "Sound Baths with Jamie Ford", 
+        "address": "Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.1049695, 
+        "lon": -118.2917635, 
+        "name": "CrossFit Mindset", 
+        "address": "1870 N Vermont Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.096, 
+        "lon": -118.3389232, 
+        "name": "Wanderlust Hollywood", 
+        "address": "1357 N Highland Ave, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.005314, 
+        "lon": -118.391912, 
+        "name": "The Breath Center", 
+        "address": "11302 Summertime Ln, Culver City, CA 90230"
+    }, 
+    {
+        "lat": 34.0624628, 
+        "lon": -118.3436634, 
+        "name": "Sheila Kelley S Factor", 
+        "address": "5225 Wilshire Blvd, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0604906, 
+        "lon": -118.4133405, 
+        "name": "Meridian Sports Club Century City", 
+        "address": "1950 Century Park E, Los Angeles, CA 90067"
+    }, 
+    {
+        "lat": 33.997981, 
+        "lon": -118.47331, 
+        "name": "Mary Beth LaRue Yoga", 
+        "address": "512 Rose Ave, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0759368, 
+        "lon": -118.3834136, 
+        "name": "JK Zen Fitness", 
+        "address": "116 N Robertson Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 33.9988271, 
+        "lon": -118.4794208, 
+        "name": "Sacred Energy Arts Center", 
+        "address": "220 Pier Ave, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.0887647, 
+        "lon": -118.2721276, 
+        "name": "The Buti Tree", 
+        "address": "3111 Berkeley Ave, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0899817, 
+        "lon": -118.6038021, 
+        "name": "Yoga Desa", 
+        "address": "120 N Topanga Canyon Blvd, Topanga, CA 90290"
+    }, 
+    {
+        "lat": 34.2516086, 
+        "lon": -118.2936022, 
+        "name": "Yoga Grounds", 
+        "address": "7412 Foothill Blvd, Tujunga, CA 91042"
+    }, 
+    {
+        "lat": 34.0304798, 
+        "lon": -118.3801468, 
+        "name": "Sweat Pilates", 
+        "address": "8540 Washington Blvd, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 33.8294217, 
+        "lon": -118.1846688, 
+        "name": "FreeSpirit Yoga", 
+        "address": "3910 Atlantic Ave, Long Beach, CA 90807"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Amanda Jude - Yoga & Wellness Coach", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.1655706, 
+        "lon": -118.3794632, 
+        "name": "Get It Done With DDP Yoga", 
+        "address": "5211 Tujunga Ave, North Hollywood, CA 91601"
+    }, 
+    {
+        "lat": 34.0464831, 
+        "lon": -118.2511268, 
+        "name": "JustFit", 
+        "address": "215 W 6th St, Los Angeles, CA 90014"
+    }, 
+    {
+        "lat": 34.1609124, 
+        "lon": -118.5079681, 
+        "name": "Core Power Yoga", 
+        "address": "17175 Ventura Blvd, Los Angeles, CA 91316"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Danzenyoga", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0536777, 
+        "lon": -118.3433926, 
+        "name": "Boxing District", 
+        "address": "1190 S La Brea Ave, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.007857, 
+        "lon": -118.4123381, 
+        "name": "Maitri Yoga Store", 
+        "address": "11160 Washington Blvd, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 34.0664817, 
+        "lon": -118.3520389, 
+        "name": "Yoga with Fay", 
+        "address": "Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 33.9561834, 
+        "lon": -118.3959139, 
+        "name": "Re+active Physical Therapy & Wellness", 
+        "address": "8830 S Sepulveda Blvd, Los Angeles, CA 90045"
+    }, 
+    {
+        "lat": 34.0300829, 
+        "lon": -118.4974849, 
+        "name": "Rainbeau Mars Lifestyles", 
+        "address": "1112 Montana Ave, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.0018262, 
+        "lon": -118.4817044, 
+        "name": "Hill Street Center", 
+        "address": "237 Hill St, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Chloe Park Healing", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "Kaleigh Lundy", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 33.9885018, 
+        "lon": -118.4621916, 
+        "name": "Santa Monica Yoga", 
+        "address": "1027 1/4 Abbot Kinney Blvd, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.17217249999999, 
+        "lon": -118.548945, 
+        "name": "Body & Brain Yoga ? Tai Chi", 
+        "address": "19100 Ventura Blvd, Los Angeles, CA 91356"
+    }, 
+    {
+        "lat": 34.1523569, 
+        "lon": -118.341052, 
+        "name": "Yoga Body and Spirit", 
+        "address": "3808 W Riverside Dr Ste 101, Burbank, CA 91505"
+    }, 
+    {
+        "lat": 34.166387, 
+        "lon": -118.375894, 
+        "name": "Basement of NoHo", 
+        "address": "5259 Lankershim Blvd, North Hollywood, CA 91601"
+    }, 
+    {
+        "lat": 34.2380283, 
+        "lon": -118.6356764, 
+        "name": "Chatsworth Yoga Co-Op", 
+        "address": "23350 Lake Manor Dr, Chatsworth, CA 91311"
+    }, 
+    {
+        "lat": 34.1501621, 
+        "lon": -118.0924051, 
+        "name": "Awareness Center", 
+        "address": "2801 E Foothill Blvd, Pasadena, CA 91107"
+    }, 
+    {
+        "lat": 33.8166041, 
+        "lon": -118.3796385, 
+        "name": "The Hot Yoga Center", 
+        "address": "1820 S Pacific Coast Hwy, Redondo Beach, CA 90277"
+    }, 
+    {
+        "lat": 34.1156475, 
+        "lon": -118.2641705, 
+        "name": "Metro Fitness", 
+        "address": "3610 ValleyBrink Rd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 33.9825887, 
+        "lon": -118.0388232, 
+        "name": "Greenleaf Yoga Studio", 
+        "address": "12824 Hadley St, Whittier, CA 90601"
+    }, 
+    {
+        "lat": 34.1453183, 
+        "lon": -118.3385392, 
+        "name": "Toluca Lake Tennis & Fitness Club", 
+        "address": "6711 Forest Lawn Dr, Los Angeles, CA 90068"
+    }, 
+    {
+        "lat": 34.0330755, 
+        "lon": -118.4519312, 
+        "name": "Mosaic Physical Therapy", 
+        "address": "11835 W. Olympic Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0763733, 
+        "lon": -118.3686008, 
+        "name": "El Le?n Spa", 
+        "address": "8217 Beverly Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0458338, 
+        "lon": -118.551545, 
+        "name": "QT Fitness", 
+        "address": "542 Palisades Dr, Pacific Palisades, CA 92072"
+    }, 
+    {
+        "lat": 33.735788, 
+        "lon": -118.289692, 
+        "name": "Sacred Garden Of Tantra", 
+        "address": "579 W 9th St, Los Angeles, CA 90731"
+    }, 
+    {
+        "lat": 34.134776, 
+        "lon": -118.237118, 
+        "name": "Pura Mama", 
+        "address": "1311 Romulus Dr, Glendale, CA 91205"
+    }, 
+    {
+        "lat": 34.091093, 
+        "lon": -118.3598091, 
+        "name": "Brick Los Angeles", 
+        "address": "7811 Santa Monica Blvd, West Hollywood, CA 90046"
+    }, 
+    {
+        "lat": 34.0218294, 
+        "lon": -118.5015394, 
+        "name": "Kukhahn Yoga", 
+        "address": "4th St, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.0487704, 
+        "lon": -118.462337, 
+        "name": "Pilates Platinum", 
+        "address": "11755 Wilshire Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0984682, 
+        "lon": -118.3039681, 
+        "name": "Thai Herbs & Spa", 
+        "address": "5231 1/2 W Sunset Blvd, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0883279, 
+        "lon": -118.3791535, 
+        "name": "Flywheel Sports - West Hollywood", 
+        "address": "8599 Santa Monica Blvd, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.1080193, 
+        "lon": -118.267801, 
+        "name": "Pilates Bodyshop", 
+        "address": "2894 Rowena Ave, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.1461683, 
+        "lon": -118.3705854, 
+        "name": "Light Leaders Yoga", 
+        "address": "4475 Vineland Ave, Studio City, CA 91602"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Sacred Rose Yoga", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0417367, 
+        "lon": -118.4593706, 
+        "name": "ElliptiFit", 
+        "address": "11870 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 33.833115, 
+        "lon": -118.1850905, 
+        "name": "Pop Physique Long Beach", 
+        "address": "4223 Atlantic Ave, Long Beach, CA 90807"
+    }, 
+    {
+        "lat": 34.1670674, 
+        "lon": -118.5954866, 
+        "name": "Yoga Loft", 
+        "address": "21228 Ventura Blvd, Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 33.995101, 
+        "lon": -118.433387, 
+        "name": "Pilatesblue", 
+        "address": "4161 McConnell Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.1453183, 
+        "lon": -118.3385392, 
+        "name": "Total Balance Health & Fitness", 
+        "address": "6711 Forest Lawn Dr, Los Angeles, CA 90068"
+    }, 
+    {
+        "lat": 34.0971066, 
+        "lon": -118.2611641, 
+        "name": "Silver Lake Reservoir", 
+        "address": "1854 To 2246 Silver Lake Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 33.989663, 
+        "lon": -118.4633798, 
+        "name": "Pilates Platinum", 
+        "address": "1653 Abbott Kinney Blvd, Los Angeles, CA 90291"
+    }, 
+    {
+        "lat": 33.8282562, 
+        "lon": -118.0282572, 
+        "name": "Stella Luna Yoga", 
+        "address": "9191 Valley View St, Cypress, CA 90630"
+    }, 
+    {
+        "lat": 33.972728, 
+        "lon": -118.4298175, 
+        "name": "LA Fitness", 
+        "address": "5570 Lincoln Blvd, Los Angeles, CA 90094"
+    }, 
+    {
+        "lat": 34.0984499, 
+        "lon": -118.2604402, 
+        "name": "Silver Lake Meadow", 
+        "address": "2300 Silver lake Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.1457565, 
+        "lon": -117.9990232, 
+        "name": "Kate Yoga", 
+        "address": "146 E Colorado Blvd, Monrovia, CA 91016"
+    }, 
+    {
+        "lat": 34.055632, 
+        "lon": -118.288858, 
+        "name": "Thai House Massage", 
+        "address": "900 S Westmoreland Ave, Los Angeles, CA 90006"
+    }, 
+    {
+        "lat": 34.1220545, 
+        "lon": -118.2935891, 
+        "name": "Silver Lake Trainer", 
+        "address": "Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.1482691, 
+        "lon": -118.4338345, 
+        "name": "Private Yoga Transforming yoga", 
+        "address": "Los Angeles, CA 91423"
+    }, 
+    {
+        "lat": 34.032048, 
+        "lon": -118.45389, 
+        "name": "David Barton Gym", 
+        "address": "12100 Olympic Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0496508, 
+        "lon": -118.3588326, 
+        "name": "Live Well Chiropractic and Pilates Center", 
+        "address": "5553 W Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 33.9308187, 
+        "lon": -118.4144959, 
+        "name": "The Fitness Underground", 
+        "address": "206 E Imperial Ave, Playa del Rey, CA 90293"
+    }, 
+    {
+        "lat": 34.050164, 
+        "lon": -118.459533, 
+        "name": "YogaWorks Brentwood", 
+        "address": "11620 Wilshire Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.2729565, 
+        "lon": -118.5005186, 
+        "name": "Yoga with Wendy", 
+        "address": "11128 Balboa Blvd, Los Angeles, CA 91344"
+    }, 
+    {
+        "lat": 34.014432, 
+        "lon": -118.497055, 
+        "name": "Santa Monica Poweryoga", 
+        "address": "1410 2nd St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.1630845, 
+        "lon": -118.3135379, 
+        "name": "Body & Brain Yoga", 
+        "address": "1054 W. Alameda Ave, Burbank, CA 91506"
+    }, 
+    {
+        "lat": 33.8013838, 
+        "lon": -118.3513956, 
+        "name": "Art Flying Yoga Studio", 
+        "address": "24411 Hawthorne Blvd, Torrance, CA 90505"
+    }, 
+    {
+        "lat": 34.0126379, 
+        "lon": -118.495155, 
+        "name": "Selah Estrada", 
+        "address": "Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.0667595, 
+        "lon": -118.4079545, 
+        "name": "Jerry Sher", 
+        "address": "9740 Wilshire Blvd, Beverly Hills, CA 90212"
+    }, 
+    {
+        "lat": 34.1881279, 
+        "lon": -118.2257679, 
+        "name": "Alpha Fitness Chalet", 
+        "address": "2836 N Verdugo Rd, Glendale, CA 91208"
+    }, 
+    {
+        "lat": 33.8108041, 
+        "lon": -118.123813, 
+        "name": "Ja Yoga", 
+        "address": "5525 E Spring St, Long Beach, CA 90808"
+    }, 
+    {
+        "lat": 34.0025014, 
+        "lon": -118.4052193, 
+        "name": "Culver-Palms YMCA", 
+        "address": "4500 Sepulveda Blvd, Culver City, CA 90230"
+    }, 
+    {
+        "lat": 34.0112318, 
+        "lon": -118.4003292, 
+        "name": "Zooga Yoga for Kids", 
+        "address": "4311 Overland Ave, Culver City, CA 90230"
+    }, 
+    {
+        "lat": 34.2090019, 
+        "lon": -118.5193395, 
+        "name": "BODY & BRAIN Yoga Tai Chi", 
+        "address": "7619 White Oak Ave, Reseda, CA 91335"
+    }, 
+    {
+        "lat": 34.1005889, 
+        "lon": -118.2876628, 
+        "name": "Gratitude Healing Massage", 
+        "address": "1617 1/2 Hillhurst Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.1099598, 
+        "lon": -118.1927084, 
+        "name": "Pop Physique", 
+        "address": "5709 N Figueroa Street, Los Angeles, CA 90042"
+    }, 
+    {
+        "lat": 34.1683857, 
+        "lon": -118.6019016, 
+        "name": "Malibu Sun Yoga", 
+        "address": "21789 Ventura Blvd, Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 33.9150066, 
+        "lon": -118.4046264, 
+        "name": "Nasslynne", 
+        "address": "El Segundo, CA 90245"
+    }, 
+    {
+        "lat": 33.774775, 
+        "lon": -118.4175578, 
+        "name": "Palos Verdes Yoga and Fitness", 
+        "address": "2325 Palos Verdes Dr W, Palos Verdes Estates, CA 90274"
+    }, 
+    {
+        "lat": 34.1598625, 
+        "lon": -118.5077085, 
+        "name": "Bikram Yoga Encino", 
+        "address": "17200 Ventura Blvd, Encino, CA 91316"
+    }, 
+    {
+        "lat": 34.185836, 
+        "lon": -118.435318, 
+        "name": "Effortless Mantra Vedic Meditation", 
+        "address": "6334 Ranchito Ave, Van Nuys, CA 91401"
+    }, 
+    {
+        "lat": 34.0905047, 
+        "lon": -118.3284809, 
+        "name": "All Out Effort - Sam Y Personal Training", 
+        "address": "6362 Santa Monica Blvd, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 33.877538, 
+        "lon": -118.3713504, 
+        "name": "Super Girl Fitness", 
+        "address": "Curtis Ave, Redondo Beach, CA 90278"
+    }, 
+    {
+        "lat": 34.163287, 
+        "lon": -118.3276664, 
+        "name": "Onsite-Yoga", 
+        "address": "2219 W Olive Ave, Burbank, CA 91506"
+    }, 
+    {
+        "lat": 34.05128699999999, 
+        "lon": -118.367134, 
+        "name": "Evolve Dance Studio", 
+        "address": "5872 Pico Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.1183739, 
+        "lon": -118.2608983, 
+        "name": "LA Sports Acupuncture", 
+        "address": "3215 Glendale Blvd, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0684666, 
+        "lon": -118.3435962, 
+        "name": "CrossFit Hollywood", 
+        "address": "310 S La Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0220809, 
+        "lon": -118.507291, 
+        "name": "CINCH Fitness", 
+        "address": "800 Ocean Ave, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.0236878, 
+        "lon": -118.3900204, 
+        "name": "Chakra Integration Massage Therapy", 
+        "address": "Los Angeles, CA 90232"
+    }, 
+    {
+        "lat": 34.0748887, 
+        "lon": -118.3082034, 
+        "name": "Rebekah Van Natta", 
+        "address": "Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.1995873, 
+        "lon": -118.3446671, 
+        "name": "Force / Balance Brazilian Jiu-Jitsu & Yoga", 
+        "address": "3111 Winona Ave, Burbank, CA 91504"
+    }, 
+    {
+        "lat": 34.0034191, 
+        "lon": -118.3937548, 
+        "name": "Got Yoga?", 
+        "address": "10732 Jefferson Blvd, Culver City, CA 90230"
+    }, 
+    {
+        "lat": 34.0310879, 
+        "lon": -118.4967601, 
+        "name": "Revolution Fitness", 
+        "address": "1211 Montana Ave, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.1679513, 
+        "lon": -118.5979323, 
+        "name": "Garden of Yoga", 
+        "address": "22284 Buena Ventura St, Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 34.0735568, 
+        "lon": -118.3800546, 
+        "name": "CAM Wellness Center", 
+        "address": "8610 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.027469, 
+        "lon": -118.4132648, 
+        "name": "Chiva Massage", 
+        "address": "3300 Overland Ave, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.1426299, 
+        "lon": -118.4061645, 
+        "name": "Polistic Pole Dance and Sexy Pilates", 
+        "address": "12526 Ventura Blvd, Los Angeles, CA 91604"
+    }, 
+    {
+        "lat": 34.200734, 
+        "lon": -118.530808, 
+        "name": "Joining All Movement Center", 
+        "address": "18242 Sherman Way, Los Angeles, CA 91335"
+    }, 
+    {
+        "lat": 34.0298033, 
+        "lon": -118.4107142, 
+        "name": "Westside Training Center", 
+        "address": "3272 Motor Ave, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.0364357, 
+        "lon": -118.4503647, 
+        "name": "Embrace Healing & Wellness", 
+        "address": "2001 S Barrington Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.1027931, 
+        "lon": -118.1016049, 
+        "name": "Solania?s Art of Healing", 
+        "address": "205 W Las Tunas Dr, San Gabriel, CA 91776"
+    }, 
+    {
+        "lat": 34.0870565, 
+        "lon": -118.3610531, 
+        "name": "Pacific Medical Group", 
+        "address": "7864 Willoughby Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0865752, 
+        "lon": -118.3760172, 
+        "name": "Wat Po Thai Spa", 
+        "address": "848 N La Cienega Blvd, Los Angeles, CA 90069"
+    }, 
+    {
+        "lat": 34.0838056, 
+        "lon": -118.2174212, 
+        "name": "Odoru Dance Studio", 
+        "address": "420 W Ave 33, Los Angeles, CA 90031"
+    }, 
+    {
+        "lat": 34.0353251, 
+        "lon": -118.4579011, 
+        "name": "Siddha Yoga Meditation Center", 
+        "address": "1845 S Bundy Dr, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0055142, 
+        "lon": -118.4292975, 
+        "name": "Pop Physique", 
+        "address": "12024 Venice Blvd, Mar Vista, CA 90066"
+    }, 
+    {
+        "lat": 34.0526914, 
+        "lon": -118.4398997, 
+        "name": "Wheel of Wellbeing", 
+        "address": "1575 Westwood Blvd, Los Angeles, CA 90024"
+    }, 
+    {
+        "lat": 34.0851186, 
+        "lon": -118.2531331, 
+        "name": "Two Turtles Traditional Chinese Medicine", 
+        "address": "1840 Echo Park Ave, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.2302065, 
+        "lon": -118.2666936, 
+        "name": "Foothill Athletic Club", 
+        "address": "3931 Lowell Ave, La Crescenta, CA 91214"
+    }, 
+    {
+        "lat": 34.0172982, 
+        "lon": -118.4903675, 
+        "name": "The Yoga Getaway", 
+        "address": "1507 7th St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.0519531, 
+        "lon": -118.3445486, 
+        "name": "Sparadise La Brea", 
+        "address": "1251 S La Brea Ave, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 34.0363706, 
+        "lon": -118.6861215, 
+        "name": "5 Point Yoga", 
+        "address": "23410 Civic Center Way, Malibu, CA 90265"
+    }, 
+    {
+        "lat": 33.9169953, 
+        "lon": -118.4092089, 
+        "name": "Believe Fitness Studio", 
+        "address": "113-117 Sierra St, El Segundo, CA 90245"
+    }, 
+    {
+        "lat": 34.1583323, 
+        "lon": -118.5155901, 
+        "name": "Inside Out Mobile Massage", 
+        "address": "Encino, CA 91316"
+    }, 
+    {
+        "lat": 33.8886265, 
+        "lon": -118.3616964, 
+        "name": "Sadie?s Pole Gym", 
+        "address": "3645 Inglewood Ave, Redondo Beach, CA 90278"
+    }, 
+    {
+        "lat": 33.7701579, 
+        "lon": -118.1921609, 
+        "name": "Sunkiss Yoga", 
+        "address": "244 Pine Ave, Long Beach, CA 90802"
+    }, 
+    {
+        "lat": 34.16434830000001, 
+        "lon": -118.3962511, 
+        "name": "Sabina Weaver", 
+        "address": "5142 Laurel Canyon Blvd, Los Angeles, CA 91607"
+    }, 
+    {
+        "lat": 33.9884534, 
+        "lon": -118.4716455, 
+        "name": "Tabitha Rose", 
+        "address": "1501 Main St, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0154688, 
+        "lon": -118.4922268, 
+        "name": "Yoga by Lara at Fred Segal", 
+        "address": "1526 5th St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.1861176, 
+        "lon": -118.3106166, 
+        "name": "Rock Star Dance Fitness", 
+        "address": "517 N Glenoaks Blvd, Burbank, CA 91502"
+    }, 
+    {
+        "lat": 33.9925568, 
+        "lon": -118.4436644, 
+        "name": "Krav Maga LA", 
+        "address": "13347 Washington Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.0754433, 
+        "lon": -118.2027518, 
+        "name": "Psalm Isadora Yoga", 
+        "address": "2554 Lincoln Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.0200306, 
+        "lon": -118.4935921, 
+        "name": "Sweat Yoga", 
+        "address": "702 Arizona Ave, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.091523, 
+        "lon": -118.278794, 
+        "name": "Golden Folk Wellness", 
+        "address": "1615 Lucile Ave, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0634692, 
+        "lon": -118.3639918, 
+        "name": "Berlin Wellness Group", 
+        "address": "6221 Wilshire Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.257868, 
+        "lon": -118.5803053, 
+        "name": "Body & Brain Yoga", 
+        "address": "20517 Devonshire St., Chatsworth, CA 91311"
+    }, 
+    {
+        "lat": 34.1502305, 
+        "lon": -118.1318982, 
+        "name": "Dahn Yoga", 
+        "address": "250 N. Lake Ave, Pasadena, CA 91101"
+    }, 
+    {
+        "lat": 33.7385196, 
+        "lon": -118.2849238, 
+        "name": "People?s Yoga, Health & Dance", 
+        "address": "365 W 6th St, San Pedro, CA 90731"
+    }, 
+    {
+        "lat": 33.998301, 
+        "lon": -118.480099, 
+        "name": "220 Fitness", 
+        "address": "3002 Main St, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 33.9404425, 
+        "lon": -117.971972, 
+        "name": "Aspire Wellness Studio", 
+        "address": "2303 W Whittier Blvd, La Habra, CA 90631"
+    }, 
+    {
+        "lat": 34.022018, 
+        "lon": -118.404687, 
+        "name": "Conscious Personal Training", 
+        "address": "3734 Motor Ave, Culver City, CA 90034"
+    }, 
+    {
+        "lat": 34.02875, 
+        "lon": -118.4717975, 
+        "name": "Gabrielle Cohen", 
+        "address": "Santa Monica, CA 90404"
+    }, 
+    {
+        "lat": 34.1235157, 
+        "lon": -118.3286614, 
+        "name": "The Alchemy Gardens", 
+        "address": "Hollywood, CA 90068"
+    }, 
+    {
+        "lat": 34.0641656, 
+        "lon": -118.3766127, 
+        "name": "Pure Barre Beverly Hills", 
+        "address": "231 S La Cienega Blvd, Beverly Hills, CA 90211"
+    }, 
+    {
+        "lat": 34.0514473, 
+        "lon": -118.2566062, 
+        "name": "24 Hour Fitness", 
+        "address": "505 S Flower St, Los Angeles, CA 90071"
+    }, 
+    {
+        "lat": 33.771834, 
+        "lon": -118.1456768, 
+        "name": "Kava Yoga", 
+        "address": "4005 East 4th Street, Long Beach, CA 90814"
+    }, 
+    {
+        "lat": 33.9587119, 
+        "lon": -118.4490445, 
+        "name": "Seaside Shotokan", 
+        "address": "177 Culver Blvd, Playa Del Rey, CA 90293"
+    }, 
+    {
+        "lat": 34.0298798, 
+        "lon": -118.3881355, 
+        "name": "Fit Body Boot Camp", 
+        "address": "8885 Venice Blvd, Los Angeles, CA 90034"
+    }, 
+    {
+        "lat": 34.14541670000001, 
+        "lon": -118.1511481, 
+        "name": "The Bar Method", 
+        "address": "32 Mills Place, Pasadena, CA 91105"
+    }, 
+    {
+        "lat": 34.168761, 
+        "lon": -118.35011, 
+        "name": "Fit Happens L.A.", 
+        "address": "1051 N Kenwood St, Burbank, CA 91505"
+    }, 
+    {
+        "lat": 33.9806909, 
+        "lon": -118.4640635, 
+        "name": "The Studio MDR", 
+        "address": "330 Washington Blvd, Marina del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.0295328, 
+        "lon": -118.473076, 
+        "name": "Trifit Club & Studios", 
+        "address": "2425 Colorado Ave, Santa Monica, CA 90404"
+    }, 
+    {
+        "lat": 33.9028696, 
+        "lon": -118.4186899, 
+        "name": "Steele Yoga", 
+        "address": "4000 Highland Ave, Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 33.9976011, 
+        "lon": -118.4206045, 
+        "name": "Brasil Brasil Cultural Center & Capoeira Batuque", 
+        "address": "11928 Washington Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.0728073, 
+        "lon": -118.3696098, 
+        "name": "AuraCycle", 
+        "address": "8231 W 3rd St, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.16166, 
+        "lon": -118.0532811, 
+        "name": "SM Village Yoga Center", 
+        "address": "24 W Sierra Madre Blvd, Sierra Madre, CA 91024"
+    }, 
+    {
+        "lat": 33.9570075, 
+        "lon": -118.4424353, 
+        "name": "Hayward Kickboxing Center", 
+        "address": "8416 Pershing Dr, Los Angeles, CA 90293"
+    }, 
+    {
+        "lat": 34.088605, 
+        "lon": -118.355629, 
+        "name": "Yoga * Life * Dreams", 
+        "address": "951 N. Curson Ave, West Hollywood, CA 90046"
+    }, 
+    {
+        "lat": 34.0255188, 
+        "lon": -118.3520389, 
+        "name": "The Lilin Studio", 
+        "address": "Los Angeles, CA 90016"
+    }, 
+    {
+        "lat": 34.1423899, 
+        "lon": -118.4571974, 
+        "name": "Come Together Fitness", 
+        "address": "Sherman Oaks, CA 91403"
+    }, 
+    {
+        "lat": 34.0488962, 
+        "lon": -118.2603818, 
+        "name": "Gold?s Gym Downtown Los Angeles", 
+        "address": "735 S Figueroa St, Los Angeles, CA 90017"
+    }, 
+    {
+        "lat": 34.087974, 
+        "lon": -118.28315, 
+        "name": "Brenna Williams Therapeutic Massage", 
+        "address": "900 Sanborn Ave, Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 33.8847696, 
+        "lon": -118.3964495, 
+        "name": "Club Pilates Manhattan Beach", 
+        "address": "903 N Sepulveda Blvd, Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 34.0653092, 
+        "lon": -118.4693371, 
+        "name": "Nova Pilates", 
+        "address": "11621 Barrington Ct, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.1647073, 
+        "lon": -118.4478797, 
+        "name": "Cardio Body Fitness", 
+        "address": "14440 Magnolia Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.0503548, 
+        "lon": -118.4337204, 
+        "name": "Center for Physical Health", 
+        "address": "10780 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0509526, 
+        "lon": -118.2544234, 
+        "name": "Future Health", 
+        "address": "633 W 5th St, Los Angeles, CA 90071"
+    }, 
+    {
+        "lat": 33.7579769, 
+        "lon": -118.109189, 
+        "name": "Purple Yoga", 
+        "address": "6535 E Pacific Coast Hwy, Long Beach, CA 90803"
+    }, 
+    {
+        "lat": 34.2205014, 
+        "lon": -118.5529749, 
+        "name": "Herbalife Nutrition and Fitness Center", 
+        "address": "19255 Roscoe Blvd, Los Angeles, CA 91324"
+    }, 
+    {
+        "lat": 34.0693589, 
+        "lon": -118.4009635, 
+        "name": "lululemon athletica", 
+        "address": "334 N Beverly Dr, Beverly Hills, CA 90210"
+    }, 
+    {
+        "lat": 34.101578, 
+        "lon": -118.3369118, 
+        "name": "Shakti Rose Yoga Sanctuary", 
+        "address": "6729 Hollywood Blvd, Hollywood, CA 90028"
+    }, 
+    {
+        "lat": 34.2049991, 
+        "lon": -118.2264902, 
+        "name": "Pedal Spin Studio", 
+        "address": "2236 Honolulu Ave, Montrose, CA 91020"
+    }, 
+    {
+        "lat": 34.1677284, 
+        "lon": -118.5323505, 
+        "name": "Jayamon Center", 
+        "address": "18345 Ventura Blvd., Tarzana, CA 91356"
+    }, 
+    {
+        "lat": 34.0308307, 
+        "lon": -118.2087815, 
+        "name": "YMCA", 
+        "address": "2900 Whittier Blvd, Los Angeles, CA 90023"
+    }, 
+    {
+        "lat": 34.143232, 
+        "lon": -118.3943376, 
+        "name": "Total Woman Gym + Spa - Los Angeles", 
+        "address": "12050 Ventura Blvd, Los Angeles, CA 91604"
+    }, 
+    {
+        "lat": 34.0481845, 
+        "lon": -118.4631619, 
+        "name": "FLX Physique", 
+        "address": "11819 Wilshite Blvd, Brentwood, CA 90025"
+    }, 
+    {
+        "lat": 33.9187267, 
+        "lon": -118.3832149, 
+        "name": "Manduka", 
+        "address": "345 Douglas St, El Segundo, CA 90245"
+    }, 
+    {
+        "lat": 34.0471303, 
+        "lon": -118.4342641, 
+        "name": "Pilates Plus West LA", 
+        "address": "1990 Westwood Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.1717586, 
+        "lon": -118.5632091, 
+        "name": "Club Pilates Woodland Hills", 
+        "address": "19720 Ventura Blvd., Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 34.1482691, 
+        "lon": -118.4338345, 
+        "name": "Nicole Honnig Yoga", 
+        "address": "Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.0436499, 
+        "lon": -118.3769338, 
+        "name": "LA Fitness", 
+        "address": "1833 C. South La Cienega Blvd, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 33.994675, 
+        "lon": -118.4393123, 
+        "name": "Kids Yoga At Rediscover", 
+        "address": "12958 Washington Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.1152901, 
+        "lon": -118.2631632, 
+        "name": "Meg Aguilar, CMT", 
+        "address": "3542 Hollydale Dr, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0900091, 
+        "lon": -118.3617443, 
+        "name": "B Fit Los Angeles", 
+        "address": "West Hollywood, CA 90046"
+    }, 
+    {
+        "lat": 34.143828, 
+        "lon": -118.150759, 
+        "name": "Pure Barre Pasadena", 
+        "address": "107 S Fair Oaks, Pasadena, CA 91105"
+    }, 
+    {
+        "lat": 34.0619298, 
+        "lon": -118.0705909, 
+        "name": "Yoga & Tai Chi with Jennifer Lam", 
+        "address": "9108 Garvey Ave, Rosemead, CA 91770"
+    }, 
+    {
+        "lat": 34.1220545, 
+        "lon": -118.2935891, 
+        "name": "Julia Fomina", 
+        "address": "Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.104723, 
+        "lon": -118.301568, 
+        "name": "Massage By Traci CMT", 
+        "address": "1840 Winona Blvd, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0127663, 
+        "lon": -118.4838128, 
+        "name": "Shine Your Light Reiki & Chakra Balancing", 
+        "address": "1844 Lincoln Blvd, Santa Monica, CA 90404"
+    }, 
+    {
+        "lat": 34.085682, 
+        "lon": -118.3444443, 
+        "name": "KOR Health & Fitness", 
+        "address": "815 N La Brea Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.0838457, 
+        "lon": -118.350166, 
+        "name": "Hollywood Fitness", 
+        "address": "7353 Melrose Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.1493208, 
+        "lon": -118.0853587, 
+        "name": "KERR MMA", 
+        "address": "3202 E Foothill Blvd, Pasadena, CA 91107"
+    }, 
+    {
+        "lat": 34.0050173, 
+        "lon": -118.4338345, 
+        "name": "Warrior Body LA", 
+        "address": "Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.0633956, 
+        "lon": -118.3676959, 
+        "name": "Dr. Ash - The Chiro Guy", 
+        "address": "6360 Wilshire Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0596665, 
+        "lon": -118.390031, 
+        "name": "Hummingbird Pilates", 
+        "address": "367 S Doheny Dr, Los Angeles, CA 90211"
+    }, 
+    {
+        "lat": 34.0852307, 
+        "lon": -118.2529904, 
+        "name": "Pilates & Arts Echo Park", 
+        "address": "1844 Echo Park Ave, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.164148, 
+        "lon": -118.378532, 
+        "name": "YMCA", 
+        "address": "5142 Tujunga Ave, North Hollywood, CA 91601"
+    }, 
+    {
+        "lat": 34.0900139, 
+        "lon": -118.374679, 
+        "name": "Harmony Studios", 
+        "address": "8440 Santa Monica Blvd, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "Brock & Krista Cahill Vinyasa Flow Yoga", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0592887, 
+        "lon": -118.4112663, 
+        "name": "Orlando Chiropractic", 
+        "address": "2080 Century Park E, Los Angeles, CA 90067"
+    }, 
+    {
+        "lat": 34.168979, 
+        "lon": -118.575231, 
+        "name": "Health & Human Performance", 
+        "address": "20300 Ventura Blvd, Woodland Hills, CA 91364"
+    }, 
+    {
+        "lat": 34.0412085, 
+        "lon": -118.442596, 
+        "name": "Ahimsa Yoga Los Angeles", 
+        "address": "West Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.1645444, 
+        "lon": -118.4404032, 
+        "name": "Ma Yoga Sherman Oaks - Pump Connection", 
+        "address": "14106 Magnolia Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.0448583, 
+        "lon": -118.4484367, 
+        "name": "Jillian Coogan Yoga", 
+        "address": "Santa Monica, CA 90025"
+    }, 
+    {
+        "lat": 34.1679908, 
+        "lon": -118.3689534, 
+        "name": "Vault Crossfit", 
+        "address": "5335 Craner Ave, North Hollywood, CA 91601"
+    }, 
+    {
+        "lat": 34.0614382, 
+        "lon": -118.3104571, 
+        "name": "Pilates Body By Sun", 
+        "address": "3832 Wilshire Blvd, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 34.097628, 
+        "lon": -118.328476, 
+        "name": "24 Hour Fitness", 
+        "address": "6380 W Sunset Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0408635, 
+        "lon": -118.4441911, 
+        "name": "Westside Family YMCA", 
+        "address": "11311 La Grange Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.101895, 
+        "lon": -118.307373, 
+        "name": "Photalai Thai Massage", 
+        "address": "5401 Hollywood Blvd, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.1123708, 
+        "lon": -118.2351408, 
+        "name": "Pacific Martial Arts", 
+        "address": "2614 Arthur St, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 34.099532, 
+        "lon": -118.249594, 
+        "name": "In & Up Pilates", 
+        "address": "2023 Riverside Dr, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.0736912, 
+        "lon": -118.2519222, 
+        "name": "Thai Friendly Massage 2", 
+        "address": "1388 W Sunset Blvd, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.0639232, 
+        "lon": -118.3074353, 
+        "name": "Zero To Hero Kickboxing", 
+        "address": "552 S Oxford Ave, Los Angeles, CA 90020"
+    }, 
+    {
+        "lat": 34.1493226, 
+        "lon": -118.4401339, 
+        "name": "Studio C Pilates and Fitness", 
+        "address": "14106 Ventura Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 34.0041388, 
+        "lon": -118.4852933, 
+        "name": "Yogitoes", 
+        "address": "2403 Main St, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.0661549, 
+        "lon": -118.4108042, 
+        "name": "Mind To Muscle Pilates", 
+        "address": "9869 S Santa Monica Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0048563, 
+        "lon": -118.4205769, 
+        "name": "Karina?s Dance and Fit Studio Zumba", 
+        "address": "11603 Washington Pl, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 33.8189493, 
+        "lon": -118.3878205, 
+        "name": "Earth Yoga", 
+        "address": "1700 S Catalina Ave, Redondo Beach, CA 90277"
+    }, 
+    {
+        "lat": 34.1199255, 
+        "lon": -118.2557764, 
+        "name": "CROSSFIT 323 / Eastside", 
+        "address": "3461 Casitas Ave, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 34.1390172, 
+        "lon": -118.1915022, 
+        "name": "Massage & Yoga", 
+        "address": "Kipling Ave, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.0831867, 
+        "lon": -118.3256279, 
+        "name": "Bailan Body Work", 
+        "address": "5770 Melrose Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.1443918, 
+        "lon": -118.256354, 
+        "name": "Lululemon Athletica", 
+        "address": "710 Americana Way, Glendale, CA 91204"
+    }, 
+    {
+        "lat": 33.99178, 
+        "lon": -118.477095, 
+        "name": "Antonina Moon - Holistic Life Coach, Massage, and Yoga", 
+        "address": "17 Park Ave, Venice, CA 90291"
+    }, 
+    {
+        "lat": 33.7619331, 
+        "lon": -118.3118544, 
+        "name": "Rymenmy Yoga Healing Center", 
+        "address": "28374 S Western Ave, Rancho Palos Verdes, CA 90275"
+    }, 
+    {
+        "lat": 34.0451339, 
+        "lon": -118.442637, 
+        "name": "Equinox", 
+        "address": "1835 S Sepulveda Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0613139, 
+        "lon": -118.4688748, 
+        "name": "SportfitLA", 
+        "address": "333 S Barrington Ave, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 33.8009026, 
+        "lon": -118.0716701, 
+        "name": "Sundara Yoga Shala", 
+        "address": "11138 Los Alamitos Blvd, Los Alamitos, CA 90720"
+    }, 
+    {
+        "lat": 34.0542087, 
+        "lon": -118.4626801, 
+        "name": "Candace Veach MTOM LAc", 
+        "address": "11611 San Vincente Blvd, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "Private Yoga with Brad", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 33.79676329999999, 
+        "lon": -118.1229268, 
+        "name": "Pilates X", 
+        "address": "5555 E Stearns St, Long Beach, CA 90815"
+    }, 
+    {
+        "lat": 34.0171441, 
+        "lon": -118.4955958, 
+        "name": "Pop Physique", 
+        "address": "1335 4th St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.0622458, 
+        "lon": -118.3062659, 
+        "name": "24 Hour Fitness", 
+        "address": "3699 Wilshire Blvd Ste 110, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 33.8600693, 
+        "lon": -118.3987842, 
+        "name": "Jules Mitchell Yoga", 
+        "address": "Hermosa Beach, CA 90254"
+    }, 
+    {
+        "lat": 34.0472537, 
+        "lon": -118.2554924, 
+        "name": "Sports Massage Extreme", 
+        "address": "643 South Olive Street, Los Angeles, CA 90014"
+    }, 
+    {
+        "lat": 34.3804668, 
+        "lon": -118.5305812, 
+        "name": "Yoga Yoga", 
+        "address": "24421 Walnut St, Newhall, CA 91321"
+    }, 
+    {
+        "lat": 34.0126379, 
+        "lon": -118.495155, 
+        "name": "Kinema Fitness Inc", 
+        "address": "Los Angeles, CA 90401"
+    }, 
+    {
+        "lat": 33.9962144, 
+        "lon": -118.4688776, 
+        "name": "Koha Yoga", 
+        "address": "Venice, CA 90291"
+    }, 
+    {
+        "lat": 33.973693, 
+        "lon": -118.422109, 
+        "name": "Playa Pilates", 
+        "address": "6020 Seabluff Dr, Playa Vista, CA 90094"
+    }, 
+    {
+        "lat": 34.0648214, 
+        "lon": -118.2189453, 
+        "name": "Acupuncture On Site", 
+        "address": "618-A Moulton Ave, Los Angeles, CA 90031"
+    }, 
+    {
+        "lat": 34.1599999, 
+        "lon": -118.4, 
+        "name": "Feeling Fit Fitness", 
+        "address": "Valley Village, CA 91617"
+    }, 
+    {
+        "lat": 33.9778347, 
+        "lon": -118.4644924, 
+        "name": "Creative Chakra Spa", 
+        "address": "3401 Pacific Ave, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.1427021, 
+        "lon": -118.4031394, 
+        "name": "Yoga Tune Up", 
+        "address": "12400 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 33.9937403, 
+        "lon": -118.4417279, 
+        "name": "LA Sports Massage", 
+        "address": "13205 W Washington Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 34.1723565, 
+        "lon": -118.5587724, 
+        "name": "Sahaja Meditation", 
+        "address": "19530 Ventura Blvd, Tarzana, CA 91356"
+    }, 
+    {
+        "lat": 34.2468273, 
+        "lon": -118.584524, 
+        "name": "Time 4 Class Dance & Fitness Studio", 
+        "address": "9713 Lurline Ave, Chatsworth, CA 91311"
+    }, 
+    {
+        "lat": 34.0364357, 
+        "lon": -118.4503647, 
+        "name": "Jordan Hoffman Acupuncture", 
+        "address": "2001 S Barrington Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0975371, 
+        "lon": -118.3500475, 
+        "name": "Cross Train LA", 
+        "address": "7300 Sunset Blvd, Hollywood, CA 90046"
+    }, 
+    {
+        "lat": 34.0880507, 
+        "lon": -118.2965121, 
+        "name": "Courtney On The Go Massage", 
+        "address": "Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 33.7936394, 
+        "lon": -118.124867, 
+        "name": "Yoga World Studio", 
+        "address": "5508 E Britton Dr, Long Beach, CA 90815"
+    }, 
+    {
+        "lat": 34.0733229, 
+        "lon": -118.2599956, 
+        "name": "Echo Park Lake", 
+        "address": "751 Echo Park Ave, Los Angeles, CA 90026"
+    }, 
+    {
+        "lat": 34.1656958, 
+        "lon": -118.2879197, 
+        "name": "Facets Pilates", 
+        "address": "928 N San Fernando Blvd, Glendale, CA 91201"
+    }, 
+    {
+        "lat": 33.9914052, 
+        "lon": -118.4447854, 
+        "name": "The Bar Method", 
+        "address": "13400 W Washington Blvd Ste 201, Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.0396501, 
+        "lon": -118.6604611, 
+        "name": "Malibu Hot Yoga", 
+        "address": "22333 Pacific Coast Hwy, Malibu, CA 90265"
+    }, 
+    {
+        "lat": 34.0255409, 
+        "lon": -118.390425, 
+        "name": "Alliance - Krav Maga & CrossFit", 
+        "address": "9000 Washington Blvd, Culver City, CA 90232"
+    }, 
+    {
+        "lat": 34.1438213, 
+        "lon": -118.2254255, 
+        "name": "Ritual Fitness", 
+        "address": "2775 W Broadway, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.1647093, 
+        "lon": -118.3712922, 
+        "name": "Kuk Sool Won Martial Arts", 
+        "address": "11020 Magnolia St, North Hollywood, CA 91601"
+    }, 
+    {
+        "lat": 34.0268161, 
+        "lon": -118.5021427, 
+        "name": "Aerial Physique", 
+        "address": "625 Montana Ave, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.1069199, 
+        "lon": -118.2877013, 
+        "name": "Mind-Body Fitness Pilates Studio", 
+        "address": "1947 1/2 Hillhurst Ave, Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.0963058, 
+        "lon": -118.4980744, 
+        "name": "Lila Pearsall Yoga", 
+        "address": "Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.0598079, 
+        "lon": -118.3681515, 
+        "name": "Performing Arts Physical Therapy & The Pilates Studio", 
+        "address": "955 Carrillo Dr, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 33.996771, 
+        "lon": -118.4534327, 
+        "name": "Relax2Yoga", 
+        "address": "1100 Victoria Ave, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0631451, 
+        "lon": -118.4367551, 
+        "name": "Spa Connections", 
+        "address": "Los Angeles, CA 90024"
+    }, 
+    {
+        "lat": 34.1220545, 
+        "lon": -118.2935891, 
+        "name": "Liz Smith Pilates", 
+        "address": "Los Angeles, CA 90027"
+    }, 
+    {
+        "lat": 34.142738, 
+        "lon": -118.370847, 
+        "name": "The Contemporary Yogi", 
+        "address": "4100 Arch Dr, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.0177426, 
+        "lon": -118.498104, 
+        "name": "Burn Fitness", 
+        "address": "1233 3rd St Promenade, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 34.037109, 
+        "lon": -118.453623, 
+        "name": "Chica Surf Adventures", 
+        "address": "1901 Granville Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0021511, 
+        "lon": -118.8065114, 
+        "name": "Art of Waking Up", 
+        "address": "Point Dume State Beach, Malibu, CA 90265"
+    }, 
+    {
+        "lat": 34.0239993, 
+        "lon": -118.4624157, 
+        "name": "34 North", 
+        "address": "2621 Pico Blvd, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 33.8908371, 
+        "lon": -118.3987842, 
+        "name": "SurfYogi CA", 
+        "address": "Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 34.1612159, 
+        "lon": -118.4678451, 
+        "name": "Golden Monkey Healing", 
+        "address": "15335 Morrison St, Sherman Oaks, CA 91403"
+    }, 
+    {
+        "lat": 34.039053, 
+        "lon": -118.465169, 
+        "name": "Traditional Chinese Medicine Healing Center", 
+        "address": "12304 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.2012635, 
+        "lon": -118.604165, 
+        "name": "In the Mudra Yoga & Dance Studio", 
+        "address": "21835 Sherman Way, Canoga Park, CA 91303"
+    }, 
+    {
+        "lat": 34.141796, 
+        "lon": -118.2211942, 
+        "name": "Eagle Rock Thai Spa", 
+        "address": "2501 Colorado Blvd, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.0816999, 
+        "lon": -118.3768899, 
+        "name": "Carrie?s Pilates Plus West Hollywood", 
+        "address": "8500 MELROSE AVENUE Suite 104, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 33.7694366, 
+        "lon": -118.3674107, 
+        "name": "BODY & BRAIN Yoga Tai Chi", 
+        "address": "881 Silver Spur Rd, Rolling Hills Estates, CA 90274"
+    }, 
+    {
+        "lat": 33.8705323, 
+        "lon": -117.9207646, 
+        "name": "Freeman Yoga", 
+        "address": "229 E Commonwealth Ave, Ste C, Fullerton, CA 92832"
+    }, 
+    {
+        "lat": 33.735788, 
+        "lon": -118.289692, 
+        "name": "Inner Harmony", 
+        "address": "579 W 9th St, San Pedro, CA 90731"
+    }, 
+    {
+        "lat": 33.9802893, 
+        "lon": -118.4517449, 
+        "name": "Paddle And Flow", 
+        "address": "Marina Del Rey, CA 90292"
+    }, 
+    {
+        "lat": 34.1023128, 
+        "lon": -118.3427565, 
+        "name": "LA Fitness", 
+        "address": "7021 Hollywood Blvd, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0503548, 
+        "lon": -118.4337204, 
+        "name": "Goodman Physical Therapy, Inc", 
+        "address": "10780 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0362369, 
+        "lon": -118.4428051, 
+        "name": "Krav Maga Worldwide", 
+        "address": "11400 W Olympic Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0467396, 
+        "lon": -118.4080567, 
+        "name": "Morning Crunch", 
+        "address": "2555 Motor Ave, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 33.8983594, 
+        "lon": -118.3964626, 
+        "name": "Yogahitch", 
+        "address": "3201 N. Sepulveda Blvd., Ste D, Manhattan Beach, CA 90266"
+    }, 
+    {
+        "lat": 34.1396749, 
+        "lon": -118.196465, 
+        "name": "Revolutions Cycling Studio", 
+        "address": "1457 Colorado Blvd, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.1487141, 
+        "lon": -118.3608046, 
+        "name": "Hey Ronnie Personal Training & Fitness", 
+        "address": "Los Angeles, CA 91602"
+    }, 
+    {
+        "lat": 34.0908712, 
+        "lon": -118.2935536, 
+        "name": "Full Moon Thai Spa", 
+        "address": "4781 Santa Monica Blvd, Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 34.2360444, 
+        "lon": -118.5284408, 
+        "name": "Student Recreation Center, CSUN", 
+        "address": "18111 Nordhoff St, Los Angeles, CA 91330"
+    }, 
+    {
+        "lat": 34.0979868, 
+        "lon": -118.3451677, 
+        "name": "Foxy & Fierce", 
+        "address": "7129 1/2 Sunset Blvd, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.0934507, 
+        "lon": -118.2877906, 
+        "name": "ZK BodyWork", 
+        "address": "N Westmoreland Ave, Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 34.1301289, 
+        "lon": -118.071669, 
+        "name": "The Fitness Station", 
+        "address": "9040 Huntington Dr, San Gabriel, CA 91775"
+    }, 
+    {
+        "lat": 34.2569536, 
+        "lon": -118.6034747, 
+        "name": "Marydale?s Param Yoga Healing Arts Center", 
+        "address": "21750 Devonshire St, Chatsworth, CA 91311"
+    }, 
+    {
+        "lat": 34.121215, 
+        "lon": -118.2255765, 
+        "name": "Karen Quick Pilates", 
+        "address": "4210 Panamint St, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 33.9996801, 
+        "lon": -118.4711074, 
+        "name": "Shayna Hiller - Health Coach", 
+        "address": "635 Rose Ave, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0182159, 
+        "lon": -118.5005712, 
+        "name": "Clayton Campbell Bodywork", 
+        "address": "1137 2nd St, Santa Monica, CA 90403"
+    }, 
+    {
+        "lat": 34.062181, 
+        "lon": -118.3557378, 
+        "name": "East Meets West", 
+        "address": "5820 Wilshire Blvd, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0423205, 
+        "lon": -118.4300707, 
+        "name": "Thai Sabai", 
+        "address": "2306 Westwood Blvd, Los Angeles, CA 90064"
+    }, 
+    {
+        "lat": 34.0444876, 
+        "lon": -118.4316713, 
+        "name": "Sheppard Method Pilates Studio", 
+        "address": "2180 Westwood Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.16549, 
+        "lon": -118.249565, 
+        "name": "Susan Howard Fitness", 
+        "address": "435 E Randolph St, Glendale, CA 91207"
+    }, 
+    {
+        "lat": 34.0525707, 
+        "lon": -118.3180714, 
+        "name": "Royal Thai Massage", 
+        "address": "3600 W Olympic Blvd, Los Angeles, CA 90019"
+    }, 
+    {
+        "lat": 33.8338851, 
+        "lon": -117.9155907, 
+        "name": "The Yoga Mat", 
+        "address": "209 Center St Promenade, Anaheim, CA 92805"
+    }, 
+    {
+        "lat": 34.066366, 
+        "lon": -118.382361, 
+        "name": "Beverly Hills Posture - Walker Ozar, DC", 
+        "address": "8730 Wilshire Blvd, Beverly Hills, CA 90211"
+    }, 
+    {
+        "lat": 34.1437949, 
+        "lon": -118.3958014, 
+        "name": "Clear Light Healing With Julia Moton", 
+        "address": "12107 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.0914201, 
+        "lon": -118.283493, 
+        "name": "Universal Family Wellness Clinic", 
+        "address": "4209 Santa Monica Blvd, Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 34.0406755, 
+        "lon": -118.4639841, 
+        "name": "School Of Martial Arts-West LA", 
+        "address": "12113 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0664817, 
+        "lon": -118.3520389, 
+        "name": "Wes Ferguson Fitness", 
+        "address": "Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0429072, 
+        "lon": -118.255878, 
+        "name": "Pilates Plus Downtown LA", 
+        "address": "845 S Broadway, Los Angeles, CA 90014"
+    }, 
+    {
+        "lat": 34.0969554, 
+        "lon": -118.3536186, 
+        "name": "Move Massage", 
+        "address": "1420 N Sierra Bonita Ave, Los Angeles, CA 90046"
+    }, 
+    {
+        "lat": 34.03563310000001, 
+        "lon": -118.5155901, 
+        "name": "Alison Burmeister Yoga", 
+        "address": "Pacific Palisades, CA 90272"
+    }, 
+    {
+        "lat": 34.1426432, 
+        "lon": -118.4032808, 
+        "name": "Pop Physique", 
+        "address": "12406 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 34.0909218, 
+        "lon": -118.3207, 
+        "name": "Body by Nick", 
+        "address": "6015 Santa Monica Blvd, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.0629729, 
+        "lon": -118.3635999, 
+        "name": "Sanare Sanctuary", 
+        "address": "6200 Wilshire Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.1027513, 
+        "lon": -118.33383, 
+        "name": "Bodies Integrated", 
+        "address": "1737 Whitley Ave, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.0860744, 
+        "lon": -118.3437293, 
+        "name": "Shaun Guttridge", 
+        "address": "828 N La Brea Ave, Los Angeles, CA 90038"
+    }, 
+    {
+        "lat": 34.0690256, 
+        "lon": -118.2968613, 
+        "name": "Wendy?s Dance Studio", 
+        "address": "3702 1/2 3rd St, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 33.9944465, 
+        "lon": -118.4752536, 
+        "name": "Libby Pilates", 
+        "address": "615 Hampton Dr, Venice, CA 90291"
+    }, 
+    {
+        "lat": 33.7900452, 
+        "lon": -118.3406517, 
+        "name": "Shaolin Temple", 
+        "address": "2927 Rolling Hills Rd, Torrance, CA 90505"
+    }, 
+    {
+        "lat": 34.1957007, 
+        "lon": -118.606144, 
+        "name": "Capoeira Batuque", 
+        "address": "6901 Topanga Blvd, Los Angeles, CA 91303"
+    }, 
+    {
+        "lat": 34.1633045, 
+        "lon": -118.3841777, 
+        "name": "Molly Evans Yoga", 
+        "address": "Valley Village, CA 91607"
+    }, 
+    {
+        "lat": 33.86302910000001, 
+        "lon": -118.3999279, 
+        "name": "Bionic Body", 
+        "address": "1244 Hermosa Ave, Hermosa Beach, CA 90254"
+    }, 
+    {
+        "lat": 34.1572125, 
+        "lon": -118.4054, 
+        "name": "Yael?s Center of Healing", 
+        "address": "12500 Riverside Dr, Studio City, CA 91607"
+    }, 
+    {
+        "lat": 34.025897, 
+        "lon": -118.4578534, 
+        "name": "Breath of Life Studios", 
+        "address": "3019 Pico Blvd, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 33.8346167, 
+        "lon": -118.1681178, 
+        "name": "Wonderfully Fit Personal Training", 
+        "address": "4180 Gardenia Ave, Long Beach, CA 90807"
+    }, 
+    {
+        "lat": 34.0122649, 
+        "lon": -118.4928374, 
+        "name": "Hiking with Heart", 
+        "address": "Pacific Coast Highway, Santa Monica, CA"
+    }, 
+    {
+        "lat": 34.0146388, 
+        "lon": -118.44945, 
+        "name": "Alison Widdoes Yoga", 
+        "address": "Santa Monica, CA 90501"
+    }, 
+    {
+        "lat": 34.0925056, 
+        "lon": -118.3781865, 
+        "name": "SoulCycle West Hollywood", 
+        "address": "8570 Sunset Blvd, West Hollywood, CA 90069"
+    }, 
+    {
+        "lat": 34.1391862, 
+        "lon": -118.3803122, 
+        "name": "i heart fitness XO", 
+        "address": "11440 Ventura Blvd, Studio City, CA 91604"
+    }, 
+    {
+        "lat": 33.7372563, 
+        "lon": -118.0327692, 
+        "name": "Underground Yoga", 
+        "address": "15601 Graham St, Huntington Beach, CA 92649"
+    }, 
+    {
+        "lat": 34.0448583, 
+        "lon": -118.4484367, 
+        "name": "Aiko Spa A Mobile Massage Wellness & Spa Service", 
+        "address": "Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 33.9885018, 
+        "lon": -118.4621916, 
+        "name": "The Dailey Method", 
+        "address": "1327 1/2 B Abbot Kinney St, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.121215, 
+        "lon": -118.2255765, 
+        "name": "Live Arts Los Angeles", 
+        "address": "4210 Panamint St, Los Angeles, CA 90065"
+    }, 
+    {
+        "lat": 34.0481761, 
+        "lon": -118.4911261, 
+        "name": "The Bar Method", 
+        "address": "13050 San Vicente Blvd, Los Angeles, CA 90049"
+    }, 
+    {
+        "lat": 34.1477524, 
+        "lon": -118.428219, 
+        "name": "Blazing Saddles", 
+        "address": "13535 Ventura Blvd, Sherman Oaks, CA 91423"
+    }, 
+    {
+        "lat": 33.85607299999999, 
+        "lon": -118.391782, 
+        "name": "YogaBuddies", 
+        "address": "660 2nd St, Hermosa Beach, CA 90254"
+    }, 
+    {
+        "lat": 33.865913, 
+        "lon": -118.3754131, 
+        "name": "Feel the Bliss of Yoga & Reiki", 
+        "address": "Redondo Beach, CA 90278"
+    }, 
+    {
+        "lat": 34.067309, 
+        "lon": -118.4034619, 
+        "name": "Equinox", 
+        "address": "9601 Wilshire Blvd, Beverly Hills, CA 90210"
+    }, 
+    {
+        "lat": 34.169355, 
+        "lon": -118.5380733, 
+        "name": "Tarzana Aikikai", 
+        "address": "18580 Ventura Blvd, Tarzana, CA 91356"
+    }, 
+    {
+        "lat": 34.0419483, 
+        "lon": -118.4707398, 
+        "name": "Unplug Meditation", 
+        "address": "12401 Wilshire Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0050995, 
+        "lon": -118.4302026, 
+        "name": "Lynda McCloskey Wellness Services", 
+        "address": "12114 Venice Blvd, Los Angeles, CA 90066"
+    }, 
+    {
+        "lat": 33.9602546, 
+        "lon": -118.3530589, 
+        "name": "Accelerate Sycle Studio", 
+        "address": "300 S La Brea, Inglewood, CA 90301"
+    }, 
+    {
+        "lat": 33.7701999, 
+        "lon": -118.3703548, 
+        "name": "Coreology Fitness", 
+        "address": "704 Deep Valley Dr, Rolling Hills Estates, CA 90274"
+    }, 
+    {
+        "lat": 34.167999, 
+        "lon": -118.633417, 
+        "name": "A Radiant Life", 
+        "address": "23240 Mariano St, Woodland Hills, CA 91367"
+    }, 
+    {
+        "lat": 34.0488352, 
+        "lon": -118.4391565, 
+        "name": "LA DanceFit Studio", 
+        "address": "10936 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0522342, 
+        "lon": -118.2436849, 
+        "name": "An Angel?s Touch Mobile Spa", 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "lat": 34.0945419, 
+        "lon": -118.1275064, 
+        "name": "The Fit Factor", 
+        "address": "38 W Main St, Alhambra, CA 91801"
+    }, 
+    {
+        "lat": 34.0819905, 
+        "lon": -118.3443421, 
+        "name": "Fitmix Studio", 
+        "address": "601 N La Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 33.9994439, 
+        "lon": -118.470836, 
+        "name": "Ingrid Borborema", 
+        "address": "634 Rose Ave, Venice, CA 90291"
+    }, 
+    {
+        "lat": 34.0739969, 
+        "lon": -118.3443352, 
+        "name": "Barre Belle", 
+        "address": "113 N La Brea, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.0201904, 
+        "lon": -118.4966219, 
+        "name": "Blackbird Pilates Studio", 
+        "address": "522 Wilshire Blvd, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 33.7844997, 
+        "lon": -118.1971031, 
+        "name": "Warrior?s Heart Yoga", 
+        "address": "Long Beach, CA 90813"
+    }, 
+    {
+        "lat": 34.011345, 
+        "lon": -118.4851902, 
+        "name": "BYOM Bring Your Own Mat", 
+        "address": "601 Pico Blvd, Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.1516986, 
+        "lon": -118.1645325, 
+        "name": "RBAC Yoga", 
+        "address": "360 N Arroyo Blvd, Pasadena, CA 91103"
+    }, 
+    {
+        "lat": 34.0576687, 
+        "lon": -118.4172971, 
+        "name": "Equinox", 
+        "address": "10220 Constellation Blvd, Century City, CA 90067"
+    }, 
+    {
+        "lat": 33.9784783, 
+        "lon": -118.4602067, 
+        "name": "Nita Blum Yoga", 
+        "address": "4241 Via Marina #304, Marina del Rey, CA 90292"
+    }, 
+    {
+        "lat": 33.8178334, 
+        "lon": -118.3843007, 
+        "name": "Pop Physique Redondo Beach", 
+        "address": "129 Palos Verdes Blvd, Redondo Beach, CA 90277"
+    }, 
+    {
+        "lat": 34.1144984, 
+        "lon": -118.2497513, 
+        "name": "Body McKanics Fitness", 
+        "address": "3191 Casitas St, Los Angeles, CA 90039"
+    }, 
+    {
+        "lat": 33.9725484, 
+        "lon": -118.2915394, 
+        "name": "EAT.SLEEP.SWEAT.", 
+        "address": "7414 S Vermont Ave, Los Angeles, CA 90044"
+    }, 
+    {
+        "lat": 34.27901, 
+        "lon": -118.7076669, 
+        "name": "The Yoga Nook", 
+        "address": "4449 Cochran St, Simi Valley, CA 93063"
+    }, 
+    {
+        "lat": 34.00974600000001, 
+        "lon": -118.4659576, 
+        "name": "Team Fitness Training", 
+        "address": "Santa Monica, CA 90405"
+    }, 
+    {
+        "lat": 34.0880507, 
+        "lon": -118.2965121, 
+        "name": "BASIC Weight Loss Boot Camp", 
+        "address": "Los Angeles, CA 90029"
+    }, 
+    {
+        "lat": 34.0995347, 
+        "lon": -118.3447726, 
+        "name": "Hollywood Gym & Fitness", 
+        "address": "1551 N La Brea Ave, Los Angeles, CA 90028"
+    }, 
+    {
+        "lat": 34.062131, 
+        "lon": -118.3133811, 
+        "name": "Serene Thai Massage", 
+        "address": "3959 Wilshire Blvd, Los Angeles, CA 90010"
+    }, 
+    {
+        "lat": 34.0661071, 
+        "lon": -118.3841777, 
+        "name": "Alexandra Lauterio Yoga", 
+        "address": "Beverly Hills, CA 90211"
+    }, 
+    {
+        "lat": 34.1697128, 
+        "lon": -118.1215512, 
+        "name": "Yoga Paz", 
+        "address": "1365 N Hill Ave, Pasadena, CA 91104"
+    }, 
+    {
+        "lat": 34.1600508, 
+        "lon": -118.4399655, 
+        "name": "Mermaid Fitness", 
+        "address": "Hazeltine Ave, Los Angeles, CA 91423"
+    }, 
+    {
+        "lat": 34.0295328, 
+        "lon": -118.473076, 
+        "name": "PowerFlow 360 at TruYoga", 
+        "address": "2425 Colorado Ave, Santa Monica, CA 90404"
+    }, 
+    {
+        "lat": 34.269018, 
+        "lon": -118.601889, 
+        "name": "Outback Yoga", 
+        "address": "10926 Owensmouth Ave, Chatsworth, CA 91311"
+    }, 
+    {
+        "lat": 34.0587722, 
+        "lon": -118.3833871, 
+        "name": "New Wave Health Care Center", 
+        "address": "1016 S Robertson Blvd, Los Angeles, CA 90035"
+    }, 
+    {
+        "lat": 33.76132400000001, 
+        "lon": -118.114217, 
+        "name": "Bikram Yoga Studio", 
+        "address": "6324-E E Pacific Coast Hwy, Long Beach, CA 90803"
+    }, 
+    {
+        "lat": 33.9012388, 
+        "lon": -118.3748123, 
+        "name": "Equinox", 
+        "address": "5400 Rosecrans Ave, Hawthorne, CA 90250"
+    }, 
+    {
+        "lat": 34.0384067, 
+        "lon": -118.6751473, 
+        "name": "Unityone Yoga", 
+        "address": "22917 Pacific Coast Hwy, Malibu, CA 90265"
+    }, 
+    {
+        "lat": 34.1389173, 
+        "lon": -118.2107489, 
+        "name": "Pilates Eagle Rock", 
+        "address": "2002 Colorado Blvd, Los Angeles, CA 90041"
+    }, 
+    {
+        "lat": 34.0364357, 
+        "lon": -118.4503647, 
+        "name": "Titus Motion Therapy", 
+        "address": "2001 S Barrington Ave, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0642551, 
+        "lon": -118.3838666, 
+        "name": "Body Maxx", 
+        "address": "223 S Robertson Blvd, Beverly Hills, CA 90211"
+    }, 
+    {
+        "lat": 34.0744437, 
+        "lon": -118.3238672, 
+        "name": "Flywheel Sports - Larchmont", 
+        "address": "147 N Larchmont Blvd, Los Angeles, CA 90004"
+    }, 
+    {
+        "lat": 34.1121782, 
+        "lon": -118.589852, 
+        "name": "LoveBug & Me Music", 
+        "address": "1440 N Topanga Canyon Blvd, Topanga, CA 90290"
+    }, 
+    {
+        "lat": 34.1740166, 
+        "lon": -118.5907195, 
+        "name": "Woodland Hills Athletic Club", 
+        "address": "20971 Burbank Blvd, Woodland Hills, CA 91367"
+    }, 
+    {
+        "lat": 33.9040403, 
+        "lon": -118.3943925, 
+        "name": "Lululemon Athletica", 
+        "address": "2008 E Park Pl, El Segundo, CA 90245"
+    }, 
+    {
+        "lat": 34.090173, 
+        "lon": -118.369439, 
+        "name": "Zen Casa", 
+        "address": "1051 N Harper Ave, West Hollywood, CA 90046"
+    }, 
+    {
+        "lat": 34.0417367, 
+        "lon": -118.4593706, 
+        "name": "Pattaya Thai Spa", 
+        "address": "11870 Santa Monica Blvd, Los Angeles, CA 90025"
+    }, 
+    {
+        "lat": 34.0633129, 
+        "lon": -118.3669015, 
+        "name": "Jun Chong Tae Kwon Do", 
+        "address": "6340B Wilshire Blvd, Los Angeles, CA 90048"
+    }, 
+    {
+        "lat": 34.0172982, 
+        "lon": -118.4903675, 
+        "name": "Yoga And Fitness To Go", 
+        "address": "1507 7th St, Santa Monica, CA 90401"
+    }, 
+    {
+        "lat": 33.9170407, 
+        "lon": -118.3662381, 
+        "name": "Coast Fitness", 
+        "address": "5001 W El Segundo Blvd, Hawthorne, CA 90250"
+    }, 
+    {
+        "lat": 34.0626564, 
+        "lon": -118.2000177, 
+        "name": "USC Lifestyle Redesign Weight Management Program", 
+        "address": "2250 Alcazar St, Los Angeles, CA 90089"
+    }, 
+    {
+        "lat": 34.081043, 
+        "lon": -118.343755, 
+        "name": "In Thai Spa", 
+        "address": "524 1/2 N La Brea Ave, Los Angeles, CA 90036"
+    }, 
+    {
+        "lat": 34.212305, 
+        "lon": -118.218872, 
+        "name": "Crescenta-Canada Family YMCA", 
+        "address": "1930 Foothill Blvd, La Canada Flintridge, CA 91011"
+    }
+]
