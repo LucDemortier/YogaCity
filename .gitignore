@@ -1,0 +1,6 @@
+GoogleApiKey.txt
+*.txt
+*.json
+*.pkl
+results/*
+.ipynb_checkpoints/*
