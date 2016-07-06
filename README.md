@@ -1,6 +1,9 @@
 # YogaCity
-Project Kojak for Spring 2015 Metis Data Science Boot Camp. 
-See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/portfolio/5_Kojak.html) for a description of the results.
+This project analyzes Yelp reviews of yoga businesses in NYC and LA (mainly yoga studios, but also gyms offering yoga classes, stores selling yoga apparel, etc.). What concerns do practitioners/customers have, and how do these concerns differ between NYC and LA? 
+
+This was my "Project Kojak" in the Spring 2015 Metis Data Science Boot Camp. 
+
+See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/projects/5_Kojak.html) for a description of the results.
 
 iPython notebooks used to generate the results and plots for the YogaCity project:
 
