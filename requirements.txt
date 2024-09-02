@@ -57,7 +57,7 @@ smart-open==1.5.3
 subprocess32==3.2.7
 terminado==0.6
 testpath==0.3.1
-tornado==4.5.1
+tornado==6.4.1
 traitlets==4.3.2
 urllib3==1.26.19
 wcwidth==0.1.7
